@@ -5,25 +5,25 @@
 |-
 |style="width:280px;text-align:center;white-space:nowrap;color:#000" |
 <div id="articlecount" style="width:100%;text-align:center;font-size:85%;">海納百川，有容乃大。</div>
-<div style="font-size:142%;border:none;margin: 0;padding:.1em;color:#000">歡迎到[[Wp/gan/贛語|贛語]]嗰[[Wp/gan/維基百科|維基百科]]來！</div>
-<div style="top:+0.2em;font-size: 95%">[[Wp/gan/維基百科|人人都寫得正]]嗰百科全書</div>
-<div id="articlecount" style="width:100%;text-align:center;85％">今下攏共有{{Wp/gan/NUMBEROFARTICLES}}篇文章</div>
+<div style="font-size:142%;border:none;margin: 0;padding:.1em;color:#000">歡迎到[[Wp/gan/贛語|贛語]]嗰[[維基百科|維基百科]]來！</div>
+<div style="top:+0.2em;font-size: 95%">[[維基百科|人人都寫得正]]嗰百科全書</div>
+<div id="articlecount" style="width:100%;text-align:center;85％">今下攏共有{{NUMBEROFARTICLES}}篇文章</div>
 |}<!-- Portals Follow -->
 |style="width:11%;font-size:95%;color:#000"|
-*[[:Category:Wp/gan/科學|科學]]
-*[[:Category:Wp/gan/技術|技術]]
-*[[:Category:Wp/gan/地理|地理]]
-*[[:Category:Wp/gan/哲學|哲學]]
+*[[:Category:科學|科學]]
+*[[:Category:技術|技術]]
+*[[:Category:地理|地理]]
+*[[:Category:哲學|哲學]]
 |style="width:11%;font-size:95%"|
-*[[:Category:Wp/gan/經濟|經濟]]
-*[[:Category:Wp/gan/人物|人物]]
-*[[:Category:Wp/gan/文化|文化]]
-*[[:Category:Wp/gan/體育|體育]]
+*[[:Category:經濟|經濟]]
+*[[:Category:人物|人物]]
+*[[:Category:文化|文化]]
+*[[:Category:體育|體育]]
 |style="width:11%;font-size:95%"|
-*[[:Category:Wp/gan/歷史|歷史]]
-*[[:Category:Wp/gan/社會|社會]] 
-*[[:Category:Wp/gan/生物學|生物學]]
-*[[:Category:Wp/gan/宗教|宗教]]
+*[[:Category:歷史|歷史]]
+*[[:Category:社會|社會]] 
+*[[:Category:生物學|生物學]]
+*[[:Category:宗教|宗教]]
 |}<!-- End Portals -->
 
 
@@ -35,21 +35,21 @@ __NOTOC__ __NOEDITSECTION__
 <div colspan="2" style="border:2px solid;border-color:#ddd #888 #666 #ccc;padding:0 1em;color:black;background:#fff;margin:4px">
 <table align="baseline" border="0" cellpadding="1" cellspacing="1">
 <tr>
-<td>'''Fon īn nĕn kuong līn [[Wp/gan/贛語|Kōn-Ngĭ]] ko [[Wp/gan/Wikipedia|Wikipedia]]！'''Wikipedia sì chì iū ko pek kho chién sü. Tāu kŏ siu, mĭ jak nīn tu lēn khùng sièn tek jāng jié ko ji sik. Uì uà [[Wp/gan/贛語|Kōn-Ngĭ]] po？Hé hat tĕng sit lī li？！Jā sī lāi pien ngŏ li ko pek kho chién sü！Kŏ sī kan, Kōn-Ngĭ Wikipedia lŭng khùng iŭ '''{{Wp/gan/NUMBEROFARTICLES}}''' phien ūn jong.</td>
+<td>'''Fon īn nĕn kuong līn [[贛語|Kōn-Ngĭ]] ko [[Wp/gan/Wikipedia|Wikipedia]]！'''Wikipedia sì chì iū ko pek kho chién sü. Tāu kŏ siu, mĭ jak nīn tu lēn khùng sièn tek jāng jié ko ji sik. Uì uà [[贛語|Kōn-Ngĭ]] po？Hé hat tĕng sit lī li？！Jā sī lāi pien ngŏ li ko pek kho chién sü！Kŏ sī kan, Kōn-Ngĭ Wikipedia lŭng khùng iŭ '''{{NUMBEROFARTICLES}}''' phien ūn jong.</td>
 </td></tr>
 <tr>
-<td>'''歡迎倷光臨[[Wp/gan/贛語|贛語]]嗰[[Wp/gan/維基百科|Wikipedia]]！'''Wikipedia係自由嗰百科全書。到箇首，每隻人都能貢獻得正佢嗰知識。會話[[Wp/gan/贛語|贛語]]啵？許哈等什哩哩？！詐戲來編偶俚嗰百科全書！箇時間，贛語Wikipedia攏共有'''{{Wp/gan/NUMBEROFARTICLES}}'''篇文章。
+<td>'''歡迎倷光臨[[贛語|贛語]]嗰[[維基百科|Wikipedia]]！'''Wikipedia係自由嗰百科全書。到箇首，每隻人都能貢獻得正佢嗰知識。會話[[贛語|贛語]]啵？許哈等什哩哩？！詐戲來編偶俚嗰百科全書！箇時間，贛語Wikipedia攏共有'''{{NUMBEROFARTICLES}}'''篇文章。
 </td></tr>
 <tr>
 <td>
-試驗到嗰Wikipedia，文章嗰標題非用<nowiki>[[Wp/gan/Name of article]] </nowiki>嗰樣式不可。就話，「贛語」箇篇文章嗰標題就係[[wp/gan/贛語]]。（正式嗰Wikipedia嗰標題坐定係<nowiki>[[贛語]]</nowiki>。)
+試驗到嗰Wikipedia，文章嗰標題非用<nowiki>[[Name of article]] </nowiki>嗰樣式不可。就話，「贛語」箇篇文章嗰標題就係[[wp/gan/贛語]]。（正式嗰Wikipedia嗰標題坐定係<nowiki>[[贛語]]</nowiki>。)
 <inputbox>
  type=create
  width=90
  bgcolor=#ffffff
  preload=Template:Standard content for new page
  editintro=Template:Instructions
- default=Wp/gan/
+ default=
 </inputbox>
 </td>
 </tr>
@@ -62,7 +62,7 @@ __NOTOC__ __NOEDITSECTION__
 {|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5fffa"
 ! <h2 style="margin:0;background:#cef2e0;font-size:120%;font-weight:bold;border:1px solid #a3bfb1;text-align:left;color:#000;padding:0.2em 0.4em;">[[Image:Torchlight help.png|25px|]] 倷晓得啵...</h2>
 |-
-|style="color:#000"|{{Wp/gan/Did you know }}
+|style="color:#000"|{{Did you know }}
 [[Image:Wikipedia-logo-gan.png|right]]
 |-
 |}<!-- Start of right-column -->
@@ -75,7 +75,7 @@ __NOTOC__ __NOEDITSECTION__
 |-
 ! <h2 style="margin:0;background:#cedff2;font-size:120%;font-weight:bold;border:1px solid #a3b0bf;text-align:left;color:#000;padding:0.2em 0.4em;">[[Image:Nuvola filesystems services.png|25px|]] 靓文推介</h2>
 |-
-|style="color:#000"|{{Wp/gan/speciality}}
+|style="color:#000"|{{speciality}}
 |-
 |}
 |}
@@ -83,14 +83,14 @@ __NOTOC__ __NOEDITSECTION__
 
 <!-- Start of reference section -->
 
-{{Wp/gan/WikipediaSister}}<!--Template:WikipediaSister-->
+{{WikipediaSister}}<!--Template:WikipediaSister-->
 
-{{Wp/gan/languages}}<!--Template:Wikipedialang-->
+{{languages}}<!--Template:Wikipedialang-->
 </div>
 </div>__NOTOC__  __NOEDITSECTION__
 </div>
 
-[[Category:Wp/gan]]
+[[Category:gan]]
 [[af:Tuisblad]]
 [[als:Houptsyte]]
 [[an:Portalada]]
