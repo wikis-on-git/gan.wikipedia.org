@@ -27,36 +27,6 @@
 |}<!-- End Portals -->
 
 
-__NOTOC__ __NOEDITSECTION__
-<div id="tau-hiek">
-{| width="100%" cellspacing="0" cellpadding="0"
-| colspan="2" |
-
-<div colspan="2" style="border:2px solid;border-color:#ddd #888 #666 #ccc;padding:0 1em;color:black;background:#fff;margin:4px">
-<table align="baseline" border="0" cellpadding="1" cellspacing="1">
-<tr>
-<td>'''Fon īn nĕn kuong līn [[贛語|Kōn-Ngĭ]] ko [[維基百科|Wikipedia]]！'''Wikipedia sì chì iū ko pek kho chién sü. Tāu kŏ siu, mĭ jak nīn tu lēn khùng sièn tek jāng jié ko ji sik. Uì uà [[贛語|Kōn-Ngĭ]] po？Hé hat tĕng sit lī li？！Jā sī lāi pien ngŏ li ko pek kho chién sü！Kŏ sī kan, Kōn-Ngĭ Wikipedia lŭng khùng iŭ '''{{NUMBEROFARTICLES}}''' phien ūn jong.</td>
-</td></tr>
-<tr>
-<td>'''歡迎倷光臨[[贛語|贛語]]嗰[[維基百科|Wikipedia]]！'''Wikipedia係自由嗰百科全書。到箇首，每隻人都能貢獻得正佢嗰知識。會話[[贛語|贛語]]啵？許哈等什哩哩？！詐戲來編偶俚嗰百科全書！箇時間，贛語Wikipedia攏共有'''{{NUMBEROFARTICLES}}'''篇文章。
-</td></tr>
-<tr>
-<td>
-
-<inputbox>
- type=create
- width=90
- bgcolor=#ffffff
- preload=Template:Standard content for new page
- editintro=Template:Instructions
- default=
-</inputbox>
-</td>
-</tr>
-</table>
-</div>
-
-
 {|style="border-spacing:8px;margin:0px -8px" width=100%
 |class="MainPageBG" style="width:50%;border:1px solid #cef2e0;background-color:#f5fffa;vertical-align:top;color:#000"|
 {|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5fffa"
