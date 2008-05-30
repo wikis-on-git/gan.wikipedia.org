@@ -4,7 +4,7 @@
 {|style="width:280px;border:solid 0px;background:none"
 |-
 |style="width:280px;text-align:center;white-space:nowrap;color:#000" |
-<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">海納百川，有容乃大。</div>
+<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">海納百川 有容乃大</div>
 <div style="font-size:142%;border:none;margin: 0;padding:.1em;color:#000">歡迎到[[贛語|贛語]]嗰[[維基百科|維基百科]]來！</div>
 <div style="top:+0.2em;font-size: 95%">[[維基百科|人人都寫得正]]嗰百科全書</div>
 <div id="articlecount" style="width:100%;text-align:center;85％">而今攏共有{{NUMBEROFARTICLES}}篇文章</div>
@@ -30,11 +30,11 @@
 {|style="border-spacing:8px;margin:0px -8px" width=100%
 |class="MainPageBG" style="width:50%;border:1px solid #cef2e0;background-color:#f5fffa;vertical-align:top;color:#000"|
 {|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5fffa"
-! <h2 style="margin:0;background:#cef2e0;font-size:120%;font-weight:bold;border:1px solid #a3bfb1;text-align:left;color:#000;padding:0.2em 0.4em;">[[Image:Torchlight help.png|25px|]] 倷晓得啵...</h2>
+! <h2 style="margin:0;background:#cef2e0;font-size:120%;font-weight:bold;border:1px solid #a3bfb1;text-align:left;color:#000;padding:0.2em 0.4em;">[[Image:Torchlight help.png|25px|]] 倷曉得啵...</h2>
 |-
 |style="color:#000"|{{Did you know }}
 |-
-! <h2 style="margin:0;background:#cedff2;font-size:120%;font-weight:bold;border:1px solid #a3b0bf;text-align:left;color:#000;padding:0.2em 0.4em;">[[Image:Nuvola filesystems services.png|25px|]] 靓文推介</h2>
+! <h2 style="margin:0;background:#cedff2;font-size:120%;font-weight:bold;border:1px solid #a3b0bf;text-align:left;color:#000;padding:0.2em 0.4em;">[[Image:Nuvola filesystems services.png|25px|]] 靚文推介</h2>
 |-
 |style="color:#000"|{{speciality}}
 |-
@@ -45,7 +45,7 @@
 |-
 |style="color:#000"|{{what happen}}
 |-
-! <h2 style="margin:0;background:#cedff2;font-size:120%;font-weight:bold;border:1px solid #a3b0bf;text-align:left;color:#000;padding:0.2em 0.4em;">[[Image:Nuvola apps date.png|25px|]] 許年今日</h2>
+! <h2 style="margin:0;background:#cef2e0;font-size:120%;font-weight:bold;border:1px solid #a3bfb1;text-align:left;color:#000;padding:0.2em 0.4em;">[[Image:Nuvola apps date.png|25px|]] 許年今日</h2>
 |-
 |style="color:#000"|{{許年今日}}
 |-
@@ -63,8 +63,8 @@
 <!--第二行-->
 {|style="width:100%;vertical-align:top;background-color:#f5fffa;"
 |-
-<!--别嗰話-->
-! <h2 style="margin:0;background-color:#ccd8e4;font-family:sans-serif;font-size:120%;font-weight:bold;border:1px solid #c6cbff;padding:0.2em 0.4em;text-align:left;">[[Image:Wiktprintable without text.svg|25px|]] 别嗰話</h2>
+<!--別嗰話-->
+! <h2 style="margin:0;background-color:#ccd8e4;font-family:sans-serif;font-size:120%;font-weight:bold;border:1px solid #c6cbff;padding:0.2em 0.4em;text-align:left;">[[Image:Wiktprintable without text.svg|25px|]] 別嗰話</h2>
 |-
 |{{languages}}
 |}
