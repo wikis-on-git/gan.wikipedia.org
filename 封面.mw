@@ -1,13 +1,14 @@
-<div id="mainpage"></div>
-<!-- Beginning of header section -->{|style="width:100%;margin-top:+.7em;background-color:#fcfcfc;border:1px solid #ccc"
-|style="width:56%;color:#000"|
-{|style="width:280px;border:solid 0px;background:none"
+<!-- 頂欄開始 -->
+{| style="width: 100%; border: 1px solid #cccccc; background: #fcfcfc;"
 |-
-|style="width:280px;text-align:center;white-space:nowrap;color:#000" |
-<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">海納百川 有容乃大</div>
-<div style="font-size:142%;border:none;margin: 0;padding:.1em;color:#000">歡迎到[[贛語|贛語]]嗰[[維基百科|維基百科]]來！</div>
-<div style="top:+0.2em;font-size: 95%">[[維基百科|人人都寫得正]]嗰百科全書</div>
-<div id="articlecount" style="width:100%;text-align:center;85％">而今攏共有{{NUMBEROFARTICLES}}篇文章</div>
+| style="color: black;" |
+{| border="0" style="width: 280px; background: none;"
+|-
+| id="EnWpMpBook2" style="white-space: nowrap; background-repeat: no-repeat; background-position: 0% 20%; text-align: center;" |
+<div style="font-size:100%;">'''海納百川 有容乃大'''</div>
+<div style="font-size:152%;border:none;margin: 0;padding:.1em;color:#000">歡迎到[[贛語|贛語]]嗰[[維基百科|維基百科]]來！</div>
+<div style="top:+0.2em;font-size: 100%">[[維基百科|人人都寫得正]]嗰百科全書</div>
+<div id="articlecount" style="width:100%;text-align:center;85％">而今攏共有[[Special:Statistics|<span style="color: green; font-size: 120%;">'''{{NUMBEROFARTICLES}}'''</span>]]篇文章</div>
 |}<!-- Portals Follow -->
 |style="width:11%;font-size:95%;color:#000"|
 *[[:Category:科學|科學]]
@@ -24,7 +25,7 @@
 *[[:Category:社會|社會]] 
 *[[:Category:生物學|生物學]]
 *[[:Category:宗教|宗教]]
-|}<!-- End Portals -->
+|}<!-- 頂欄結束 -->
 
 
 {|style="border-spacing:8px;margin:0px -8px" width=100%
@@ -60,7 +61,7 @@
 ! <h2 style="margin:0;background-color:#ccd8e4;font-family:sans-serif;font-size:120%;font-weight:bold;border:1px solid #c6cbff;padding:0.2em 0.4em;text-align:left;">[[Image:Nuvola apps bookcase.svg|25px|]] 姊妹計畫</h2>
 |-
 |{{WikipediaSister}}
-<!--第二行-->
+|-
 {|style="width:100%;vertical-align:top;background-color:#f5fffa;"
 |-
 <!--別嗰話-->
