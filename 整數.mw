@@ -2,7 +2,7 @@
 
 到[[電腦]]裡頭，整數好多時間係一隻資料型別([[:en:datatype|datatype]])。但係現實裡頭嗰整數有無限可能，但係電腦裡頭嗰整數標記範圍就有限，因為任何電腦嗰處理能力都有極限。到[[C語言]]之類嗰電腦語言，整數型別用<code>int</code>表示，而另一滴子語言像Visual Basic就會用英文字{{Wp/gan/話|en|integer}}。
 
-[[Category:維基百科/數學]]
+[[Category:數學]]
 
 [[af:Heelgetal]]
 [[ar:عدد صحيح]]
