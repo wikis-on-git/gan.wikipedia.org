@@ -3,7 +3,7 @@
 == 十干表 ==
 
 === 各語言嗰讀法 ===
-{| class="wikitable" style="text-align:center"
+{| border="1" class="wikitable" style="text-align:center"
 |-
 !十干
 !意味
@@ -35,7 +35,7 @@
 |}
 
 === 各要素嗰關連 ===
-{| border="1" class="wikitable"
+{| border="1" class="wikitable" style="text-align:center"
 |-
 !十干!!五行!!五方!!陰陽!!陽曆年嗰<br />下1梁<br />（年の十干）!![[zh:儒略日|儒略日]]嗰<br />下1梁<br />（日の十干）||二十四方
 |-
