@@ -302,7 +302,29 @@ uk 哭
 |}
 
 ===聲調===
-42、55、24、213、33、11、5、2
+{| class="wikitable" border="1" cellpadding="4" cellspacing="0" align="center"
+|- style="background:maroon; color:black"
+! '''古調類''' !! colspan=2 align="center" | '''平聲''' !! colspan=2 align="center" | '''上聲''' !! colspan=2 align="center" | '''去聲''' !! colspan=2 align="center" |'''入聲'''
+|-
+! 陰陽調
+| 陰平
+| 陽平
+| 陰上
+| 陽上
+| 陰去
+| 陽去
+| 陰入
+| 陽入
+|-
+! 南昌
+| align="center" | 42
+| align="center" | 24
+| colspan=2 align="center" | 213
+| align="center" | 45
+| align="center" | 21
+| align="center" | 5
+| align="center" | 2
+|}
 
 ==詞彙==
 
