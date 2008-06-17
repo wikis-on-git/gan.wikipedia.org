@@ -1,9 +1,12 @@
 <div id="mainpage"></div>
 <!-- Beginning of header section -->{|style="width:100%;margin-top:+.7em;background-color:#fcfcfc;border:1px solid #ccc"
 |style="width:56%;color:#000"|
-{|style="width:280px;border:solid 0px;background:none"
+{| style="width: 100%; border: 1px solid #cccccc; background: #fcfcfc;"
 |-
-|style="width:280px;text-align:center;white-space:nowrap;color:#000" |
+| style="color: black;" |
+{| border="0" style="width: 280px; background: none;"
+|-
+| id="EnWpMpBook2" style="white-space: nowrap; background-repeat: no-repeat; background-position: 0% 20%; text-align: center;" |
 <div style="font-size:100%;">'''海納百川 有容乃大'''</div>
 <div style="font-size:152%;border:none;margin: 0;padding:.1em;color:#000">歡迎到'''[[贛語]]'''嗰[[維基百科]]來！</div>
 <div style="top:+0.2em;font-size: 100%">[[Wikipedia:關於|人人都寫得正]]嗰百科全書</div>
