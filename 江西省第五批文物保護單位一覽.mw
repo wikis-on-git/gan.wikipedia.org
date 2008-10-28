@@ -42,7 +42,7 @@
 |- bgcolor="#efefef"
 !colspan=7|古建築（攏共66處）
 |- style="text-align:center;"
-|序號|| style="width:6%"|編號 ||名稱||時代|| style="width:10%"|所在市 || style="width:18%"|地址 ||備註
+|序號|| style="width:6%"|編號 ||名稱|| style="width:7%"|時代 || style="width:10%"|所在市 || style="width:18%"|地址 ||備註
 |- style="text-align:center;"
 |13||Ⅲ-1||槎灘陂||五代(南唐)||吉安市||泰和縣禾市鎮、螺溪鎮||含：周矩墓
 |- style="text-align:center;"
@@ -176,6 +176,24 @@
 |- style="text-align:center;"
 |78||Ⅲ-76||慈化寺||清至民國||宜春市||袁州區慈化鎮||
 |}
+
+{|  class="wikitable" align="center" style="width:90%" 
+|- bgcolor="#efefef"
+!colspan=7|石窟寺跟石刻（攏共5處）
+|- style="text-align:center;"
+|序號||編號||名稱||時代||所在市||地址||備註
+|- style="text-align:center;"
+|79||Ⅳ-1||海會寺摩崖石刻||唐至清||九江市||廬山區蓮花鎮||
+|- style="text-align:center;"
+|80||Ⅳ-2||靈岩洞遺墨題刻||唐至清||上饒市||婺源縣古坦鄉||
+|- style="text-align:center;"
+|81||Ⅳ-3||《金溪場銀坑記》||摩岩石刻五代||撫州市||金溪縣城東羊石山||
+|- style="text-align:center;"
+|82||Ⅳ-4||寮山摩岩石刻岩畫||南宋||宜春市||高安市灰埠鎮||
+|- style="text-align:center;"
+|83||Ⅳ-5||廬山三疊泉摩崖石刻||宋至清||九江市||廬山區海會鎮||
+|}
+
 
 ==相干條目==
 *[[江西省文物保護單位一覽]]
