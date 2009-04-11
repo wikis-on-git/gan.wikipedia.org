@@ -187,7 +187,7 @@
 
 一隻人嗰中國式嗰完個姓名像：
 
-{| align="center"
+{| class="wikitable" align='center'
 |-
 | align="center" | '''格式'''
 | align="center" | 氏
@@ -202,7 +202,7 @@
 | align="center" | 父
 |}
 
-{| align="center"
+{| class="wikitable" align='center'
 |-
 | align="center" | '''格式'''
 | align="center" | 夫家國名
