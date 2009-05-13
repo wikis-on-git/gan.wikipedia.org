@@ -33,7 +33,7 @@
 | {{card|spade|Q|40px}}
 | {{card|spade|K|40px}}
 |-
-! 紅心</br><big><big><font color="FF0000">♥</font></big></big>
+! <font color="FF0000">紅心</br><big><big>♥</big></big></font>
 | {{card|heart|A|40px}}
 | {{card|heart|2|40px}}
 | {{card|heart|3|40px}}
@@ -63,7 +63,7 @@
 | {{card|club|Q|40px}}
 | {{card|club|K|40px}}
 |-
-! 方塊</br><big><big><font color="FF0000">♦</font></big></big>
+! <font color="FF0000">方塊</br><big><big>♦</big></big></font>
 | {{card|diamond|A|40px}}
 | {{card|diamond|2|40px}}
 | {{card|diamond|3|40px}}
