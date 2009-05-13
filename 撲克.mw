@@ -18,37 +18,22 @@
 ! Queen
 ! King
 |-
-! 梅花:
-| {{card|club|A|40px}}
-| {{card|club|2|40px}}
-| {{card|club|3|40px}}
-| {{card|club|4|40px}}
-| {{card|club|5|40px}}
-| {{card|club|6|40px}}
-| {{card|club|7|40px}}
-| {{card|club|8|40px}}
-| {{card|club|9|40px}}
-| {{card|club|10|40px}}
-| {{card|club|J|40px}}
-| {{card|club|Q|40px}}
-| {{card|club|K|40px}}
+! 黑桃</br>♠
+| {{card|spade|A|40px}}
+| {{card|spade|2|40px}}
+| {{card|spade|3|40px}}
+| {{card|spade|4|40px}}
+| {{card|spade|5|40px}}
+| {{card|spade|6|40px}}
+| {{card|spade|7|40px}}
+| {{card|spade|8|40px}}
+| {{card|spade|9|40px}}
+| {{card|spade|10|40px}}
+| {{card|spade|J|40px}}
+| {{card|spade|Q|40px}}
+| {{card|spade|K|40px}}
 |-
-! 方塊: 
-| {{card|diamond|A|40px}}
-| {{card|diamond|2|40px}}
-| {{card|diamond|3|40px}}
-| {{card|diamond|4|40px}}
-| {{card|diamond|5|40px}}
-| {{card|diamond|6|40px}}
-| {{card|diamond|7|40px}}
-| {{card|diamond|8|40px}}
-| {{card|diamond|9|40px}}
-| {{card|diamond|10|40px}}
-| {{card|diamond|J|40px}}
-| {{card|diamond|Q|40px}}
-| {{card|diamond|K|40px}}
-|-
-! 紅心:
+! 紅心</br><font color="FF0000">♥</font>
 | {{card|heart|A|40px}}
 | {{card|heart|2|40px}}
 | {{card|heart|3|40px}}
@@ -63,20 +48,35 @@
 | {{card|heart|Q|40px}}
 | {{card|heart|K|40px}}
 |-
-! 黑桃:
-| {{card|spade|A|40px}}
-| {{card|spade|2|40px}}
-| {{card|spade|3|40px}}
-| {{card|spade|4|40px}}
-| {{card|spade|5|40px}}
-| {{card|spade|6|40px}}
-| {{card|spade|7|40px}}
-| {{card|spade|8|40px}}
-| {{card|spade|9|40px}}
-| {{card|spade|10|40px}}
-| {{card|spade|J|40px}}
-| {{card|spade|Q|40px}}
-| {{card|spade|K|40px}}
+! 梅花</br>♣
+| {{card|club|A|40px}}
+| {{card|club|2|40px}}
+| {{card|club|3|40px}}
+| {{card|club|4|40px}}
+| {{card|club|5|40px}}
+| {{card|club|6|40px}}
+| {{card|club|7|40px}}
+| {{card|club|8|40px}}
+| {{card|club|9|40px}}
+| {{card|club|10|40px}}
+| {{card|club|J|40px}}
+| {{card|club|Q|40px}}
+| {{card|club|K|40px}}
+|-
+! 方塊</br><font color="FF0000">♦</font>
+| {{card|diamond|A|40px}}
+| {{card|diamond|2|40px}}
+| {{card|diamond|3|40px}}
+| {{card|diamond|4|40px}}
+| {{card|diamond|5|40px}}
+| {{card|diamond|6|40px}}
+| {{card|diamond|7|40px}}
+| {{card|diamond|8|40px}}
+| {{card|diamond|9|40px}}
+| {{card|diamond|10|40px}}
+| {{card|diamond|J|40px}}
+| {{card|diamond|Q|40px}}
+| {{card|diamond|K|40px}}
 |}
 
 [[Category:遊戲]]
