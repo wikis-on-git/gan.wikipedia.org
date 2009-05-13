@@ -18,7 +18,7 @@
 ! Queen
 ! King
 |-
-! 黑桃</br>♠
+! 黑桃</br><big><big>♠</big></big>
 | {{card|spade|A|40px}}
 | {{card|spade|2|40px}}
 | {{card|spade|3|40px}}
@@ -33,7 +33,7 @@
 | {{card|spade|Q|40px}}
 | {{card|spade|K|40px}}
 |-
-! 紅心</br><font color="FF0000">♥</font>
+! 紅心</br><big><big><font color="FF0000">♥</font></big></big>
 | {{card|heart|A|40px}}
 | {{card|heart|2|40px}}
 | {{card|heart|3|40px}}
@@ -48,7 +48,7 @@
 | {{card|heart|Q|40px}}
 | {{card|heart|K|40px}}
 |-
-! 梅花</br>♣
+! 梅花</br><big><big>♣</big></big>
 | {{card|club|A|40px}}
 | {{card|club|2|40px}}
 | {{card|club|3|40px}}
@@ -63,7 +63,7 @@
 | {{card|club|Q|40px}}
 | {{card|club|K|40px}}
 |-
-! 方塊</br><font color="FF0000">♦</font>
+! 方塊</br><big><big><font color="FF0000">♦</font></big></big>
 | {{card|diamond|A|40px}}
 | {{card|diamond|2|40px}}
 | {{card|diamond|3|40px}}
