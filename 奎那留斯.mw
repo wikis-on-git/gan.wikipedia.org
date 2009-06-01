@@ -1,6 +1,37 @@
 [[File:Quinarius Allectus galley-RIC 0128.2.jpg|thumb|200px|奎那留斯]]
 '''奎那留斯'''（[[拉丁文]]：Quinarius）係[[古羅馬]]嗰一款[[銀|銀質]][[貨幣]]，佢抵得半隻[[德拿留斯]]。
 
+{| class="wikitable collapsible sortable" style="text-align:center; width:90%"
+|+屋大維時期嗰貨幣價值
+|+''公元前27 – 公元301年)''
+|-
+! !! [[奧婁斯]] !! 奎那留斯 奧婁斯 !! [[德拿留斯]] !! [[奎那留斯]] !! [[色斯特州斯]] !! [[都潘州斯]] !! [[阿斯]] !! [[卡䋎斯]]
+|-
+! 奧婁斯
+| 1 || 2 || 25 || 50 || 100 || 200 || 400 || 1600
+|-
+! 奎那留斯 奧婁斯
+| {{Fraction|1|2}} || 1 || 12 {{Fraction|1|2}} || 25 || 50 || 100 || 200 || 800
+|-
+! 德拿留斯
+| {{Fraction|1|25}} || {{Fraction|2|25}} || 1 || 2 || 4 || 8 || 16 || 64
+|-
+! 奎那留斯 阿根透斯
+| {{Fraction|1|50}} || {{Fraction|1|25}} || {{Fraction|1|2}} || 1 || 2 || 4 || 8 || 32
+|-
+! 色斯特州斯
+| {{Fraction|1|100}} || {{Fraction|1|50}} || {{Fraction|1|4}} || {{Fraction|1|2}} || 1 || 2 || 4 || 16
+|-
+! 都潘州斯
+| {{Fraction|1|200}} || {{Fraction|1|100}} || {{Fraction|1|8}} || {{Fraction|1|4}} || {{Fraction|1|2}} || 1 || 2 || 8
+|-
+! 阿斯
+| {{Fraction|1|400}} || {{Fraction|1|200}} || {{Fraction|1|16}} || {{Fraction|1|8}} || {{Fraction|1|4}} || {{Fraction|1|2}} || 1 || 4
+|-
+! 卡䋎斯
+| {{Fraction|1|1600}} || {{Fraction|1|800}} || {{Fraction|1|64}} || {{Fraction|1|32}} || {{Fraction|1|16}} || {{Fraction|1|8}} || {{Fraction|1|4}} || 1
+|}
+
 [[Category:古羅馬嗰貨幣]]
 
 [[bg:Квинарий]]
