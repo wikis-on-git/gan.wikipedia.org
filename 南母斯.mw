@@ -26,6 +26,28 @@
 | {{Fraction|1|1000}} || {{Fraction|1|100}} || {{Fraction|1|25}} || {{Fraction|1|5}} || {{Fraction|1|2}} || 1
 |}
 
+{| class="wikitable collapsible sortable" style="text-align:center; width:90%"
+|+羅馬帝國嗰尾期嗰貨幣價值
+|+''公元337年 – 476年''
+|-
+! !! [[所利都斯]] !! [[美利阿能斯]] !! [[司利夸]] !! [[霍利斯]] !! 南母斯
+|-
+! 所利都斯
+| 1 || 12 || 24 || 180 || 7200
+|-
+! 美利阿能斯
+| {{Fraction|1|12}} || 1 || 2 || 15 || 600
+|-
+! 司利夸
+| {{Fraction|1|24}} || {{Fraction|1|2}} || 1 || 7 {{Fraction|1|2}} || 300
+|-
+! 霍利斯
+| {{Fraction|1|180}} || {{Fraction|1|15}} || {{Fraction|2|15}} || 1 || 40
+|-
+! 南母斯
+| {{Fraction|1|7200}} || {{Fraction|1|600}} || {{Fraction|1|300}} || {{Fraction|1|40}} || 1
+|}
+
 [[Category:古羅馬嗰貨幣]]
 
 [[en:Nummus]]
