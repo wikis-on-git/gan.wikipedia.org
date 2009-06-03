@@ -1,3 +1,43 @@
 '''國際單位系統'''（法文：Le Système International d'Unités；英文：The International System of Units；簡稱'''SI'''）係[[公制|公制系統]]嗰現代標準形式，佢通常採用嗰係[[十進位]]。佢係世界使得最廣泛嗰[[度量|度量體系]]，商業、科學箇滴子領域都用得到佢。
 
+{| class="wikitable" style="margin:1em auto 1em auto"
+|+ 國際單位系統嗰基本單位<ref name=sp330>{{cite book |author=Barry N. Taylor & Ambler Thompson Ed. |title= The International System of Units (SI)|origyear= 2008 |url=http://physics.nist.gov/Pubs/SP330/sp330.pdf |accessdate=2008-06-18|publisher=National Institute of Standards and Technology|location= Gaithersburg, MD|pages=23}} </ref>
+|-
+!單位名
+!記號
+!度量對象
+|-
+![[米]]
+|'''m'''
+|長度
+|-
+![[千克]]
+|'''kg'''
+|重量
+|-
+![[秒]]
+|'''s'''
+|時間
+|-
+![[安培]]
+|'''A'''
+|電流
+|-
+![[開爾文]]
+|'''K'''
+|熱力學溫度
+|-
+![[坎德拉]]
+|'''cd'''
+|發光強度
+|-
+![[摩爾]]
+|'''mol'''
+|物質量
+|-
+|}
+
+==註腳==
+{{reflist}}
+
 [[Category:度量]]
