@@ -1,6 +1,14 @@
-'''伏'''（'''Volt'''，或者叫'''伏特'''），係隻國際單位制嗰電壓[[單位]]，符號係'''V'''。一伏係一[[安]]嗰[[電流]]流動嗰時間產生嗰電壓差。
+'''伏'''（'''volt'''，或者叫'''伏特'''），係隻國際單位制嗰電壓[[單位]]，符號係'''V'''。一伏係一[[安]]嗰[[電流]]流動嗰時間產生嗰電壓差。
 
-[[Category:單位]]
+1伏嗰得出公式：
+
+:<math>
+[U]_{SI}=\mathrm{V}=\frac{\mathrm{J}}{\mathrm{C}}
+=\frac{\mathrm{W}}{\mathrm{A}}
+=\frac{\mathrm{kg}\cdot\mathrm{m}^2}{\mathrm{s}^3\cdot\mathrm{A}}
+</math>
+
+[[Category:電學單位]]
 
 [[als:Volt]]
 [[ar:فولت]]
