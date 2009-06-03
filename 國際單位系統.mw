@@ -1,7 +1,7 @@
 '''國際單位系統'''（法文：Le Système International d'Unités；英文：The International System of Units；簡稱'''SI'''）係[[公制|公制系統]]嗰現代標準形式，佢通常採用嗰係[[十進位]]。佢係世界使得最廣泛嗰[[度量|度量體系]]，商業、科學箇滴子領域都用得到佢。
 
 {| class="wikitable" style="margin:1em auto 1em auto"
-|+ 國際單位系統嗰基本單位<ref name=sp330>{{cite book |author=Barry N. Taylor & Ambler Thompson Ed. |title= The International System of Units (SI)|origyear= 2008 |url=http://physics.nist.gov/Pubs/SP330/sp330.pdf |accessdate=2008-06-18|publisher=National Institute of Standards and Technology|location= Gaithersburg, MD|pages=23}} </ref>
+|+ 國際單位系統嗰基本單位
 |-
 !單位名
 !記號
@@ -37,7 +37,141 @@
 |-
 |}
 
-==註腳==
-{{reflist}}
+{| class="wikitable" align="center"
+|+ 國際單位系統嗰詞頭
+|-
+! 10<sup>n</sup>
+! 詞頭
+! 記号
+! 表記
+! 十進位表記
+|-
+| 10<sup>24</sup>
+| yotta
+| Y
+| 一秭
+| 1 000 000 000 000 000 000 000 000
+|- 
+| 10<sup>21</sup>
+| zetta
+| Z
+| 十垓
+| 1 000 000 000 000 000 000 000
+|- 
+| 10<sup>18</sup>
+| exa
+| E
+| 百京
+| 1 000 000 000 000 000 000
+|- 
+| 10<sup>15</sup>
+| peta
+| P
+| 千兆
+| 1 000 000 000 000 000
+|- 
+| 10<sup>12</sup>
+| tera
+| T
+| 一兆
+| 1 000 000 000 000
+|- 
+| 10<sup>9</sup>
+| giga
+| G
+| 十億
+| 1 000 000 000
+|- 
+| 10<sup>6</sup>
+| mega
+| M
+| 百萬
+| 1 000 000
+|- 
+| 10<sup>3</sup>
+| kilo
+| k
+| 千
+| 1 000
+|- 
+| 10<sup>2</sup>
+| hecto
+| h
+| 百
+| 100
+|- 
+| 10<sup>1</sup>
+| deca，deka
+| da
+| 十
+| 10
+|- 
+| 10<sup>0</sup>
+| 
+| 
+| 一
+| 1
+|- 
+| 10<sup>&minus;1</sup>
+| deci
+| d
+| 十分之一 / 一分
+| 0.1
+|- 
+| 10<sup>&minus;2</sup>
+| centi
+| c
+| 百分之一 / 一厘
+| 0.01
+|- 
+| 10<sup>&minus;3</sup>
+| milli
+| m
+| 千分之一 / 一毛
+| 0.001
+|- 
+| 10<sup>&minus;6</sup>
+| micro
+| µ
+| 百万分之一 / 一微
+| 0.000 001
+|-
+| 10<sup>&minus;9</sup>
+| nano
+| n
+| 十億分之一 / 一塵
+| 0.000 000 001
+|-
+| 10<sup>&minus;12</sup>
+| pico
+| p
+| 一兆分之一 / 一漠
+| 0.000 000 000 001
+|-
+| 10<sup>&minus;15</sup>
+| femto
+| f
+| 千兆分之一 / 一須臾
+| 0.000 000 000 000 001
+|-
+| 10<sup>&minus;18</sup>
+| atto
+| a
+| 百京分之一 / 一刹那
+| 0.000 000 000 000 000 001
+|-
+| 10<sup>&minus;21</sup>
+| zepto
+| z
+| 十垓分之一 / 一清淨
+| 0.000 000 000 000 000 000 001
+|-
+| 10<sup>&minus;24</sup>
+| yocto
+| y
+| 一秭分之一 / 一涅槃寂静
+| 0.000 000 000 000 000 000 000 001
+|-
+|}
 
 [[Category:度量]]
