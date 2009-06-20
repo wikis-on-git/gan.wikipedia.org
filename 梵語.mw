@@ -1,3 +1,62 @@
 '''梵語'''（संस्कृता वाक् ''saṃskṛtā vāk''，簡稱 संस्कृतम् ''saṃskṛtam''）係印歐語系嗰印度-伊朗語族嗰印度-雅利安語支下頭嗰一隻語言，古時間佢係印度次大陸、東南亞嗰通用語，箇下佢已經係一種學術同得宗教性質嗰專門用語。
 
+==音系==
+{|class="wikitable"
+|-
+!colspan="2"|
+!colspan="2"| 唇音<br />{{IAST|Ōshtya}}
+! 唇齒音<br />{{IAST|Dantōshtya}}
+!colspan="2"| 齒音<br />{{IAST|Dantya}}
+!colspan="2"| 卷舌音<br />{{IAST|Mūrdhanya}}
+!colspan="2"| 硬腭音<br />{{IAST|Tālavya}}
+!colspan="2"| 軟腭音<br />{{IAST|Kanthya}}
+!colspan="2"| 聲門音
+|-
+!rowspan="2"| 塞音<br />{{IAST|Sparśa}}
+! style="font-size:80%"|送氣|不送氣<br />{{IAST|Alpaprāna}}
+| {{IAST|p}} {{Unicode|प}} {{IPA|[p]}} || {{IAST|b}} {{Unicode|ब}} {{IPA|[b]}} || || {{IAST|t}} {{Unicode|त}} {{IPA|[t̪]}} || {{IAST|d}} {{Unicode|द}} {{IPA|[d̪]}} || {{IAST|ṭ}} {{Unicode|ट}} {{IPA|[ʈ]}} || {{IAST|ḍ}} {{Unicode|ड}} {{IPA|[ɖ]}} || {{IAST|c}} {{Unicode|च}} {{IPA|[c͡ç]}} || {{IAST|j}} {{Unicode|ज}} {{IPA|[ɟ͡ʝ]}} || {{IAST|k}} {{Unicode|क}} {{IPA|[k]}} || {{IAST|g}} {{Unicode|ग}} {{IPA|[g]}}
+|colspan="2"|
+|-
+! style="font-size:80%"|送氣<br />Mahāprāna
+| {{IAST|ph}} {{Unicode|फ}} {{IPA|[pʰ]}} || {{IAST|bh}} {{Unicode|भ}} {{IPA|[bʱ]}} || || {{IAST|th}} {{Unicode|थ}} {{IPA|[t̪ʰ]}} || {{IAST|dh}} {{Unicode|ध}} {{IPA|[d̪ʱ]}} || {{IAST|ṭh}} {{Unicode|ठ}} {{IPA|[ʈʰ]}} || {{IAST|ḍh}} {{Unicode|ढ}} {{IPA|[ɖʱ]}} || {{IAST|ch}} {{Unicode|छ}} {{IPA|[c͡çʰ]}} || {{IAST|jh}} {{Unicode|झ}} {{IPA|[ɟ͡ʝʱ]}} || {{IAST|kh}} {{Unicode|ख}} {{IPA|[kʰ]}} || {{IAST|gh}} {{Unicode|घ}} {{IPA|[gʱ]}}
+|colspan="2"|
+|-
+!colspan="2"| 鼻音<br />{{IAST|Anunāsika}}
+|colspan="2" style="font-weight: normal"| {{IAST|m}} {{Unicode|म}} {{IPA|[m]}}
+|
+|colspan="2" style="font-weight: normal"| {{IAST|n}} {{Unicode|न}} {{IPA|[n̪]}}
+|colspan="2" style="font-weight: normal"| {{IAST|ṇ}} {{Unicode|ण}} {{IPA|[ɳ]}}
+|colspan="2" style="font-weight: normal"| {{IAST|ñ}} {{Unicode|ञ}} {{IPA|[ɲ]}}
+|colspan="2" style="font-weight: normal"| {{IAST|ṅ}} {{Unicode|ङ}} {{IPA|[ŋ]}}
+|colspan="2"|
+|-
+!colspan="2"| 半元音<br />{{IAST|Antastha}}
+|colspan="2"|
+|style="font-weight: normal"| {{IAST|v}} {{Unicode|व}} {{IPA|[ʋ]}}
+|colspan="2"|
+|colspan="2"|
+|colspan="2" style="font-weight: normal"| {{IAST|y}} {{Unicode|य}} {{IPA|[j]}}
+|colspan="2"|
+|colspan="2"|
+|-
+!colspan="2"| 流音<br />{{IAST|Drava}}
+|colspan="2"|
+|
+|colspan="2" style="font-weight: normal"| {{IAST|l}} {{Unicode|ल}} {{IPA|[l]}}
+|colspan="2" style="font-weight: normal"| {{IAST|r}} {{Unicode|र}} {{IPA|[r]}}
+|colspan="2"|
+|colspan="2"|
+|colspan="2"|
+|-
+!colspan="2"| 擦音<br />{{IAST|Ūshman}}
+|colspan="2"|
+|
+|colspan="2" style="font-weight: normal"| {{IAST|s}} {{Unicode|स}} {{IPA|[s̪]}}
+|colspan="2" style="font-weight: normal"| {{IAST|ṣ}} {{Unicode|ष}} {{IPA|[ʂ]}}
+|colspan="2" style="font-weight: normal"| {{IAST|ś}} {{Unicode|श}} {{IPA|[ɕ]}}
+|colspan="2"|
+|style="font-weight: normal"| {{IAST|ḥ}} {{Unicode|ः}} {{IPA|[h]}}
+|style="font-weight: normal"| {{IAST|h}} {{Unicode|ह}} {{IPA|[ɦ]}}
+|}
+
 [[Category:語言]]
