@@ -2,6 +2,7 @@
 '''梵語'''（संस्कृता वाक् ''saṃskṛtā vāk''，簡稱 संस्कृतम् ''saṃskṛtam''）係印歐語系嗰印度-伊朗語族嗰印度-雅利安語支下頭嗰一隻語言，古時間佢係印度次大陸、東南亞嗰通用語，箇下佢已經係一種學術同得宗教性質嗰專門用語。
 
 ==音系==
+===輔音===
 {|class="wikitable"
 |-
 !colspan="2"|
@@ -59,5 +60,40 @@
 |style="font-weight: normal"| {{IAST|ḥ}} {{Unicode|ः}} {{IPA|[h]}}
 |style="font-weight: normal"| {{IAST|h}} {{Unicode|ह}} {{IPA|[ɦ]}}
 |}
+
+===元音===
+{|class="wikitable"
+|-
+! 字母 !! 附標 !!  IAST !! 音標 !! 發音特征
+|-
+| {{Unicode|अ}}|| ||{{IAST|a}}||{{IPA|/ə/}}（或{{IPA|/ɐ/}}）||中央元音（或短次開央元音）
+|-
+| {{Unicode|आ}}||{{Unicode|ा}}||{{IAST|ā}}||{{IPA|/ɑː/}}||長開后不圓唇元音
+|-
+| {{Unicode|इ}}||{{Unicode|ि}}||{{IAST|i}}||{{IPA|/i/}}||短閉前不圓唇元音
+|-
+| {{Unicode|ई}}||{{Unicode|ी}}||{{IAST|ī}}||{{IPA|/iː/}}||長閉前不圓唇元音
+|-
+| {{Unicode|उ}}||{{Unicode|ु}}||{{IAST|u}}||{{IPA|/u/}}||短閉后圓唇元音
+|-
+| {{Unicode|ऊ}}||{{Unicode|ू}}||{{IAST|ū}}||{{IPA|/uː/}}|| 長閉后圓唇元音
+|-
+| {{Unicode|ऋ}}||{{Unicode|ृ}}||{{IAST|ṛ}}||{{IPA|/ɻ/}}|| 短卷舌近音
+|-
+| {{Unicode|ॠ}}||{{Unicode|ॄ}}||{{IAST|ṝ}}||{{IPA|/ɻː/}}|| 長卷舌近音
+|-
+| {{Unicode|ऌ}} ||{{Unicode|ॢ}}||{{IAST|ḷ}}||{{IPA|/ɭ/}}|| 短卷舌邊近音
+|-
+| {{Unicode|ॡ}} ||{{Unicode|ॣ}}||{{IAST|ḹ}}||{{IPA|/ɭː/}}|| 長卷舌邊近音
+|-
+| {{Unicode|ए}}||{{Unicode|े}}||{{IAST|e}}||{{IPA|/eː/}}||長半閉前不圓唇元音
+|-
+| {{Unicode|ऐ}}||{{Unicode|ै}}||{{IAST|ai}}||{{IPA|/ai/}}（或{{IPA|/əi/}}）||雙元音
+|-
+| {{Unicode|ओ}}||{{Unicode|ो}}||{{IAST|o}}||{{IPA|/oː/}}|| 長半閉后圓唇元音
+|-
+| {{Unicode|औ}}||{{Unicode|ौ}}||{{IAST|au}}||{{IPA|/au/}}（或{{IPA|/əu/}}）|| 雙元音
+|}
+
 
 [[Category:語言]]
