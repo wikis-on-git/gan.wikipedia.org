@@ -1,10 +1,55 @@
 '''阿拉伯語'''（اللغة العربية‎，羅馬字：al-Lughah al-ʻArabīyah‎）係阿拉伯人嗰母語。
 
-『'''阿拉伯字母'''』
+==字母==
 
 ا ب ة ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ى ي
 
 舊體字母： ٮ ٯ
+
+==輔音==
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="2" | &nbsp; || 唇音 || 齒間音
+! 舌尖音 || 咽化舌尖音
+! 舌面音 || 舌根音 || 小舌音
+! 咽音 || 喉音
+|-
+! rowspan="2" | 塞音 || 清
+| &nbsp;
+| &nbsp; || t || {{IPA|t&#820;}} || &nbsp; || k || q
+| &nbsp; || {{IPA|&#660;}}
+|-
+! 濁
+| b || &nbsp; || d || {{IPA|d&#820;}} || {{IPA|d&#658;}}&sup1; || &nbsp; || &nbsp;
+| &nbsp; || &nbsp;
+|-
+! rowspan="2" | 擦音 || 清
+| f
+| {{IPA|&#952;}} || s || {{IPA|s&#820;}} || {{IPA|&#643;}} || x || &nbsp; || {{IPA|&#295;}} || h
+|-
+! 濁
+| &nbsp; || ð || z || {{IPA|ð&#820;}} || &nbsp; || {{IPA|&#611;}} || &nbsp;
+| {{IPA|&#661;}} || &nbsp;
+|-
+! colspan="2" | 鼻音
+| m || &nbsp; || n || &nbsp;
+| &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp;
+|-
+! colspan="2" | 邊音
+| &nbsp; || &nbsp;
+| l² || &nbsp; || &nbsp; || &nbsp; || &nbsp;
+| &nbsp; || &nbsp;
+|-
+! colspan="2" | 顫音
+| &nbsp;
+| &nbsp; || r || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp;
+| &nbsp;
+|-
+! colspan="2" | 半元音
+|w || &nbsp;
+| &nbsp; || j || &nbsp; || &nbsp; || &nbsp;
+| &nbsp; || &nbsp;
+|}
 
 [[Category:語言]]
 
