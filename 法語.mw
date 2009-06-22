@@ -21,6 +21,81 @@
 到[[埃及]]、[[印度]]嗰本地治里（Pondicherry）、[[義大利]]嗰（Vallée d'Aoste）、老撾、柬埔寨、毛利塔尼亞、[[英國]]（汊河島，海峽群島）、[[美國]]（阿卡迪亞，Cajun）跟到越南也有滴子人話法語。
 
 ==音韻==
+===輔音===
+{|class="wikitable"
+|-
+!rowspan=2|
+!rowspan=2|雙唇音
+!rowspan=2|唇齒音
+!rowspan=2|齒音/<br />齒齦音
+!rowspan=2|齦顎音
+!colspan=2|硬顎音
+!colspan=2|軟顎音
+!rowspan=2|小舌音
+|-class=small
+!普通
+!圓唇
+!普通
+!圓唇
+|-
+! 鼻音
+|align=center class=nounderline| {{IPA|m}}
+|
+|align=center class=nounderline| {{IPA|n}}
+|
+|align=center class=nounderline| {{IPA|ɲ}}
+|
+|align=center class=nounderline| {{IPA|ŋ}}
+|
+|
+|-
+! [[塞音]]
+|align=center class=nounderline| {{IPA|p - b}}
+|
+|align=center class=nounderline| {{IPA|t - d}}
+|
+|
+|
+|align=center class=nounderline| {{IPA|k - g}}
+|
+|
+|- 
+! 擦音
+|align=center class=nounderline| 
+|align=center class=nounderline| {{IPA|f -v}}
+|align=center class=nounderline| {{IPA|s - z}}
+|align=center class=nounderline| {{IPA|ʃ - ʒ}}
+|
+|
+|
+|
+|rowspan=2 align=center class=nounderline| {{IPA|ʁ}}
+|- 
+! 近音
+|
+|
+|
+|
+|align=center class=nounderline| {{IPA|j}}
+|align=center class=nounderline| {{IPA|ɥ}}
+|
+|align=center class=nounderline| {{IPA|w}}
+|-
+! 邊音
+|
+|
+|align=center class=nounderline| {{IPA|l}}
+| 
+|align=center class=nounderline| {{IPA|ʎ}}
+|
+|
+|
+|}
+
+==文字==
+
+寫法語係用[[拉丁字母]]，但係有滴子字母加得正比標音符，像：â、ç、ê、ï、ù。
+
 {| style="margin:0.2em auto;padding:0;border:1px solid #ced8df;clear:{{{clear|both}}};width:{{{width|36em}}};"
 ! colspan="30" style="background:#efefef;"|法語字母
 |- lang="fr"
@@ -117,10 +192,6 @@
 |&nbsp;
 |&nbsp;
 |}
-
-==文字==
-
-寫法語係用[[拉丁字母]]，但係有滴子字母加得正比標音符，像：â、ç、ê、ï、ù。
 
 ==常用對話==
 Bonjour!
