@@ -5,7 +5,6 @@
 
 先頭[[法國]]有好多方言嗰，末後[[巴黎]]拕定為首都，就喫贏手，故係佢許塊嗰方言就變做現代法語標準話哩。
 
-
 ==分佈==
 
 法語係第一語言嗰國家或地區有：[[法國]]（有六千萬人用，包到新赫裏多尼亞、留尼汪、瓜德洛普、馬提尼克到聖皮埃爾及密克隆）、[[加拿大]]（六百七十萬，主要係魁北克省、新不倫瑞克省） 、[[比利時]]（四百萬） 、[[瑞士]]（跟德語、義大利語、羅曼什語四語共用）、摩納哥、法屬圭亞那（Guyane française）、海地 
@@ -49,7 +48,7 @@
 |
 |
 |-
-! [[塞音]]
+! 塞音
 |align=center class=nounderline| {{IPA|p - b}}
 |
 |align=center class=nounderline| {{IPA|t - d}}
@@ -90,6 +89,34 @@
 |
 |
 |
+|}
+
+===元音===
+{|class="wikitable"
+|-
+!rowspan=2 colspan=2| &nbsp;
+!colspan=2| 前母音 !!rowspan=2| 央母音 !!rowspan=2| 後母音
+|-
+! <small>不圓唇</small> !! <small>圓唇</small>
+|-class=nounderlines align=center
+!colspan=2| 閉母音
+| {{IPA|i}} || {{IPA|y}} || &nbsp; || {{IPA|u}}
+|-class=nounderlines align=center
+!colspan=2| 半閉母音
+| {{IPA|e}} || {{IPA|ø}} ||rowspan=2| {{IPA|ə}} || {{IPA|o}}
+|-class=nounderlines align=center
+!rowspan=2| 半開母音
+! <small>口</small>
+| {{IPA|ɛ (ɛː)}} || {{IPA|œ}} ||{{IPA|ɔ}}
+|-class=nounderlines align=center
+!rowspan=2| <small>鼻化音</small>
+| {{IPA|ɛ̃}} || {{IPA|(œ̃)}} || &nbsp;|| {{IPA|ɔ̃}}
+|-class=nounderlines align=center
+!rowspan=2| 開母音
+|colspan=3| &nbsp; || {{IPA|ɑ̃}}
+|-class=nounderlines align=center
+! <small>口</small>
+|colspan=3| {{IPA|[[Open front unrounded vowel|a]]}} || {{IPA|ɑ}}
 |}
 
 ==文字==
