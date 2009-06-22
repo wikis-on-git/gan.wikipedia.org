@@ -1,6 +1,7 @@
 [[File:Knowledge German EU map.png|thumb|200px|歐洲嗰德語水平分佈圖，顏色係烏嗰國家係話德語係佢嗰官方語言]]
 '''德語'''（Deutsch）係歐洲嗰一隻語言，話佢嗰人主要住得德國，奧地利、瑞士、列支敦士登同到別嗰37隻國家也有話德語嗰人。
 
+==文字==
 {| style="margin:0.2em auto;padding:0;border:1px solid #ced8df;clear:{{{clear|both}}};width:{{{width|36em}}};"
 ! colspan="30" style="background:#efefef;"|[[德語]][[羅馬字母|字母]]
 |- lang="de"
@@ -64,6 +65,80 @@
 |style="padding-right:0.15em;text-align:left;"|y
 |style="padding-left:0.15em;text-align:right;"|Z
 |style="padding-right:0.15em;text-align:left;"|z
+|}
+
+==音系==
+===輔音===
+{| border="2" cellpadding="5" style="margin: 1em 1em 1em 0; border-collapse: collapse; text-align: center; background: #f9f9f9; border: 1px #aaa solid;"
+| &nbsp;
+!雙唇音
+!唇齒音
+!齒齦音
+!齒齦後音
+!硬顎音
+!軟顎音
+!小舌音
+!喉音
+|-
+|'''塞音'''
+| {{IPA|p}}&nbsp;&nbsp;{{IPA|b}}
+| &nbsp;
+| {{IPA|t}}&nbsp;&nbsp;{{IPA|d}}
+| &nbsp;
+| &nbsp;
+| {{IPA|k}}&nbsp;&nbsp;{{IPA|ɡ}}
+| &nbsp;
+| {{IPA|ʔ}}
+|-
+|'''塞擦音'''
+| {{IPA|p͡f}}
+| &nbsp;
+| {{IPA|t͡s}}
+| {{IPA|t͡ʃ}}&nbsp;&nbsp;{{IPA|d͡ʒ}}
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|-
+|'''鼻音'''
+| {{IPA|m}}
+| &nbsp;
+| {{IPA|n}}
+| &nbsp;
+| &nbsp;
+| {{IPA|ŋ}}
+| &nbsp;
+| &nbsp;
+|-
+|'''擦音'''
+| &nbsp;
+| {{IPA|f}}&nbsp;&nbsp;{{IPA|v}}
+| {{IPA|s}}&nbsp;&nbsp;{{IPA|z}}
+| {{IPA|ʃ}}&nbsp;&nbsp;{{IPA|ʒ}}
+| {{IPA|ç}}
+| {{IPA|x}}
+| {{IPA|χ}}&nbsp;&nbsp;{{IPA|ʁ}}
+| {{IPA|h}}
+|-
+|'''無擦通音'''
+| &nbsp;
+| {{IPA|ʋ}}
+| &nbsp;
+| &nbsp;
+| {{IPA|j}}
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|-
+|'''流音'''
+| &nbsp;
+| &nbsp;
+| {{IPA|r}}&nbsp;&nbsp;{{IPA|l}}
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| {{IPA|ʀ}}
+| &nbsp;
 |}
 
 [[Category:語言]]
