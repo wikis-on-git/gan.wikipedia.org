@@ -141,6 +141,74 @@
 | &nbsp;
 |}
 
+===元音===
+{| border="2" cellpadding="5" style="margin: 1em 1em 1em 0; border-collapse: collapse; text-align: center; background: #f9f9f9; border: 1px #aaa solid;"
+| rowspan="3" | &nbsp;
+! colspan="4" | 前元音
+! rowspan="2" colspan="2" | 中元音
+! rowspan="2" colspan="2" | 後元音
+|-
+! colspan="2" | 非圓唇
+! colspan="2" | 圓唇
+|-
+! 短
+! 長
+! 短
+! 長
+! 短
+! 長
+! 短
+! 長
+|-
+! 閉元音
+| {{IPA|i}}
+| {{IPA|iː}}
+| {{IPA|y}}
+| {{IPA|yː}}
+| colspan="2" | &nbsp;
+| {{IPA|u}}
+| {{IPA|uː}}
+|-
+! 次閉元音
+| {{IPA|ɪ}}
+| &nbsp;
+| {{IPA|ʏ}}
+| &nbsp;
+| colspan="2" | &nbsp;
+| {{IPA|ʊ}}
+| &nbsp;
+|-
+! 半閉元音
+| {{IPA|e}}
+| {{IPA|eː}}
+| {{IPA|ø}}
+| {{IPA|øː}}
+| colspan="2" | &nbsp;
+| {{IPA|o}}
+| {{IPA|oː}}
+|-
+! 中元音
+| colspan="4" | &nbsp;
+| {{IPA|ə}}
+| &nbsp;
+| colspan="2" | &nbsp;
+|-
+! 半開元音
+| {{IPA|ɛ}}
+| {{IPA|ɛː}}
+| {{IPA|œ}}
+| &nbsp;
+| colspan="2" | &nbsp;
+| {{IPA|ɔ}}
+| &nbsp;
+|-
+! [[開元音|開]]
+| colspan="4" | &nbsp;
+| {{IPA|a}}
+| {{IPA|aː}}
+| colspan="2" | &nbsp;
+|}
+
 [[Category:語言]]
 
 {{Link FA|he}}
