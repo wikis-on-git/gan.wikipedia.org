@@ -4,6 +4,87 @@
 
 拉丁話主要係用[[拉丁字母]]寫正。
 
+==音系==
+【輔音】
+
+:{| class="wikitable"
+! colspan="2" rowspan="2" | &nbsp;
+! rowspan="2" | 雙唇音
+! rowspan="2" | 唇齒音
+! rowspan="2" | 齒音/<br />齒齦音
+! rowspan="2" | 硬顎音
+! colspan="2" | 軟顎音
+! rowspan="2" | 聲門音
+|- style="font-size: 80%;"
+! 普通
+! 唇音化
+|-align="center"	
+! style="text-align:left;" rowspan="2" | 塞音
+! style="font-size: 80%;text-align:left;" | 濁音
+| B {{IPA|/b/}}
+| 
+| D {{IPA|/d/}}
+| 
+| G {{IPA|/ɡ/}}
+| 
+| &nbsp;
+|-align="center"
+! style="font-size: 80%;text-align:left;" | 清音
+| P {{IPA|/p/}}
+| &nbsp;
+| T {{IPA|/t/}}
+| &nbsp;
+| C <span style="font-size:smaller;">或</span> K {{IPA|/k/}}<sup>1</sup>
+| QV {{IPA|/kʷ/}}
+|
+|-align="center"
+! style="text-align:left;" rowspan="2" | 擦音
+! style="font-size: 80%;text-align:left;" | 濁音
+| &nbsp;
+|
+| Z {{IPA|/z/}}
+| 
+| 
+| 
+|
+|-align="center"
+! style="font-size: 80%;text-align:left;" | 清音
+| &nbsp;
+| F {{IPA|/f/}} 
+| S {{IPA|/s/}}
+| 
+| 
+|
+| H {{IPA|/h/}}
+|-align="center"
+! style="text-align:left;" colspan="2" | 鼻音
+| M {{IPA|/m/}}
+| 
+| N {{IPA|/n/}}
+| &nbsp;
+| G/N {{IPA|[ŋ]}}<sup>2</sup>
+| &nbsp;
+| &nbsp;
+|-align="center"
+! style="text-align:left;" colspan="2" | 顫音/閃音
+| 
+| 
+| R {{IPA|/r/}}
+| &nbsp;
+|
+| &nbsp;
+| &nbsp;
+|-align="center"
+! style="text-align:left;" colspan="2" | 近音
+| &nbsp;
+| 
+| L {{IPA|/l/}}
+| I {{IPA|/j/}}
+| 
+| V {{IPA|/w/}}
+| 
+|}
+
 [[Category:語言]]
 
 {{Link FA|fi}}
