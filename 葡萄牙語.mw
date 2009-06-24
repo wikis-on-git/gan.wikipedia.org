@@ -104,16 +104,16 @@
 {| class="wikitable"
 |-
 !
-! colspan="2" | [[Bilabial]]
-! colspan="2" | [[Labiodental|Labio]]-</br>[[labiodental|dental]]
-! colspan="2" | [[Dental consonant|Dental]]
-! colspan="2" | [[Alveolar consonant|Alveolar]]
-! colspan="2" | [[Postalveolar|Post]]-</br>[[Postalveolar|alveolar]]
-! colspan="2" | [[Palatal]]
-! colspan="2" | [[Velar consonant|Velar]]
-! colspan="2" | [[Uvular]]
+! colspan="2" | 雙唇音
+! colspan="2" | 唇齒音
+! colspan="2" | 齒音
+! colspan="2" | 齒齦音
+! colspan="2" | 後齒齦音
+! colspan="2" | 硬顎音
+! colspan="2" | 軟顎音
+! colspan="2" | 喉音
 |- align=center
-|[[Plosive]]s
+|爆破音
 | {{IPA|p}}
 | {{IPA|b}}
 | colspan="2" |
@@ -126,7 +126,7 @@
 | {{IPA|g}}
 | colspan="2" |
 |- align=center
-|[[Nasal consonant|Nasals]]
+|鼻音
 | colspan="2" | {{IPA|m}}
 | colspan="2" |
 | colspan="2" |
@@ -136,7 +136,7 @@
 | colspan="2" | {{IPA|ŋ}}
 | colspan="2" |
 |- align=center
-|[[Fricative]]s
+|擦音
 | colspan="2" |
 | {{IPA|f}}
 | {{IPA|v}}
@@ -149,7 +149,7 @@
 | colspan="2" |
 | {{IPA|ʁ}}
 |- align=center
-|[[Lateral consonant|Laterals]]             
+|邊音         
 | colspan="2" |
 | colspan="2" |
 | colspan="2" |
@@ -159,7 +159,7 @@
 | colspan="2" |
 | colspan="2" |
 |- align=center
-|[[Flap consonant|Flaps]]
+|Flaps
 | colspan="2" |
 | colspan="2" |
 | colspan="2" |
@@ -169,7 +169,7 @@
 | colspan="2" |
 | colspan="2" |
 |- align=center
-|[[Approximant consonant|Approximant]]
+|近音
 | colspan="2" |
 | colspan="2" |
 | colspan="2" |
