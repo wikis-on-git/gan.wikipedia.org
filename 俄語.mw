@@ -14,6 +14,121 @@
 |}
 
 ==音系==
+【輔音】
+
+{| border="2" cellpadding="5" style="margin: 1em 1em 1em 0; line-height: 1.2em; border-collapse: collapse; text-align: center; font-family: Lucida Sans Unicode, Lucida Grande; font-size: 100%; background: #f9f9f9; border: 1px #aaa solid;"
+|- style="font-size: 90%;"
+| colspan=2|&nbsp;
+! 双唇音
+! 唇齒音
+! 齒音 &<br /> 齒槽音
+! 後齒槽音
+! 上齶音
+! 軟齶音
+|-
+! rowspan=2 style="font-size: 90%; text-align: left;"|鼻音|
+|style="font-size: 80%;" |硬音
+| {{IPA|/m/}}
+| &nbsp;
+| {{IPA|/n/}}
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|-
+|style="font-size: 80%;" |軟音
+|{{IPA|/mʲ/}}
+| &nbsp;
+| {{IPA|/nʲ/}}
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|-
+! rowspan=2 style="font-size: 90%; text-align: left;" | 爆破音
+|style="font-size: 80%;" | 硬音
+| {{IPA|/p/}} &nbsp; {{IPA|/b/}}
+| &nbsp;
+| {{IPA|/t/}} &nbsp; {{IPA|/d/}}
+| &nbsp;
+| &nbsp;
+| {{IPA|/k/}} &nbsp; {{IPA|/g/}}
+|-
+|style="font-size: 80%;" | 軟音
+| {{IPA|/pʲ/}} &nbsp; {{IPA|/bʲ/}}
+| &nbsp;
+| {{IPA|/tʲ/}} &nbsp; {{IPA|/dʲ/}}
+| &nbsp;
+| &nbsp;
+| {{IPA|/kʲ/*}} &nbsp; {{IPA|[gʲ]}}
+|-
+! rowspan=2 style="font-size: 90%; text-align: left;" | 塞擦音
+|style="font-size: 80%;" |硬音
+| &nbsp;
+| &nbsp;
+|{{IPA|/ʦ/}}&nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp;
+| &nbsp;
+| &nbsp;
+|-
+|style="font-size: 80%;" |軟音
+| &nbsp;
+| &nbsp;
+| &nbsp;&nbsp;&nbsp;
+|{{IPA|/tɕ/}}&nbsp;&nbsp;&nbsp;
+| &nbsp;
+| &nbsp;
+|-
+! rowspan=2 style="font-size: 90%; text-align: left;" | 摩擦音
+|style="font-size: 80%;" |硬音
+| &nbsp;
+| {{IPA|/f/}} &nbsp; {{IPA|/v/}}
+| {{IPA|/s/}} &nbsp; {{IPA|/z/}}
+| {{IPA|/ʂ/}} &nbsp; {{IPA|/ʐ/}}
+| &nbsp;
+| {{IPA|/x/}} &nbsp;&nbsp; &nbsp;
+|-
+|style="font-size: 80%;" |軟音
+| &nbsp;
+| {{IPA|/fʲ/}} &nbsp; {{IPA|/vʲ/}}
+| {{IPA|/sʲ/}} &nbsp; {{IPA|/zʲ/}}
+| {{IPA|/ɕː/}}* &nbsp; {{IPA|/ʑː/}}*
+| &nbsp;
+| {{IPA|[xʲ]}} &nbsp;&nbsp; &nbsp;
+|-
+! rowspan=2 style="font-size: 90%; text-align: left;" | 顫音
+|style="font-size: 80%;" |硬音
+| &nbsp;
+| &nbsp;
+| {{IPA|/r/}}
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|-
+|style="font-size: 80%;" |軟音
+| &nbsp;
+| &nbsp;
+| {{IPA|/rʲ/}}
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|-
+
+! rowspan=2 style="font-size: 90%; text-align: left;" | 近音
+|style="font-size: 80%;" |硬音
+| &nbsp;
+| &nbsp;
+| {{IPA|/l/}}
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|-
+|style="font-size: 80%;" | 軟音
+| &nbsp;
+| &nbsp;
+| {{IPA|/lʲ/}}
+| &nbsp;
+| {{IPA|/j/}}
+| &nbsp;
+|}
 
 [[Category:語言]]
 
