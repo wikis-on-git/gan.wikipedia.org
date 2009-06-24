@@ -105,6 +105,72 @@
 |}
 
 == 音系 ==
+【輔音】
+
+{| class="wikitable" border="1" style="margin:auto:; margin:auto;" 
+|-
+!
+! [[Bilabial consonant|Bilabial]]
+! [[Labiodental|Labio-<br />dental]]
+! [[Dental consonant|Dental]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+|- style="text-align:center;"
+! [[Nasal consonant|Nasal]]
+| {{IPA|m}}
+| 
+| 
+| {{IPA|n}}
+|{{IPA|ɲ}}
+|
+|- style="text-align:center;"
+! [[Stop consonant|Stop]]
+| {{IPA|p &nbsp; b}}
+| 
+| colspan=2|{{IPA|t &nbsp; d}}
+| {{IPA|tʃ &nbsp; (ɟʝ)}}
+| {{IPA|k &nbsp; g}}
+|- style="text-align:center;"
+! [[Fricative consonant|Fricative]]
+| 
+| {{IPA|f &nbsp; (v)}}
+| {{IPA|*θ &nbsp; (ð)}}
+| {{IPA|s &nbsp; (z)}}
+| rowspan=2 align=right|{{IPA|ʝ}} &nbsp;
+| align=left|&nbsp;{{IPA|x}}
+|- style="text-align:center;"
+! [[Approximant consonant|Approximant]]
+| align=right|({{IPA|β̞}})&nbsp;
+| 
+| align=right|({{IPA|ð̞}})&nbsp;
+| 
+| align=right|({{IPA|ɣ˕}})&nbsp;
+|- style="text-align:center;"
+! [[Trill consonant|Trill]]
+| 
+| 
+| 
+| {{IPA|r}}
+|
+| 
+|- style="text-align:center;"
+! [[Flap consonant|Tap]]
+| 
+| 
+|
+|  {{IPA|ɾ}}
+|
+| 
+|- style="text-align:center;"
+! [[Lateral consonant|Lateral]]
+| 
+| 
+| 
+|{{IPA|l}}
+| {{IPA|*ʎ}}
+|
+|}
 
 ==日常對話==
 {| class="sortable wikitable" width="80%"
