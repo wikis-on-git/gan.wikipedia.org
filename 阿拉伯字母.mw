@@ -1,4 +1,265 @@
-'''阿拉伯字母'''（[[阿拉伯話]]：أبجدية عربية）係世界上好幾種[[語言]]嗰書寫文字，好似[[阿拉伯話]]、[[波斯話]]，等等。除吥[[拉丁字母]]，阿拉伯字母係世界用得人最多嗰[[字母]]系統。<ref>{{cite web |url=http://www.britannica.com/eb/article-9008156/Arabic-alphabet |title=Arabic Alphabet |accessdate=2007-11-23 |publisher=Encyclopaedia Britannica online}}</ref>
+'''阿拉伯字母'''（[[阿拉伯話]]：أبجدية عربية）係世界上好幾種[[語言]]嗰書寫文字，好似[[阿拉伯話]]、[[波斯話]]，等等。除吥[[拉丁字母]]，阿拉伯字母係世界用得人最多嗰[[字母]]系統。<ref>{{cite web |url=http://www.britannica.com/eb/article-9008156/Arabic-alphabet |title=Arabic Alphabet |publisher=Encyclopaedia Britannica online}}</ref>
+
+==基本字母==
+{|class="wikitable"
+|-
+!rowspan="2"|一般<br />統一碼
+!colspan="4"|內文變化
+!rowspan="2"|名
+!rowspan="2"|拉丁字母
+!rowspan="2"|[[音標|音值]]
+|-
+!單隻
+!督
+!中間
+!頭
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0627</small><br /><font size="5">{{rtl-lang|ar|ا}}<font>
+|style="line-height:180%;padding:10px;"|<small>FE8D</small><br /><font size="5">{{rtl-lang|ar|ﺍ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FE8E</small><br /><font size="5">{{rtl-lang|ar|ﺎ}}<font>
+|style="line-height:180%;padding:10px;" colspan="2"|—
+|{{transl|ar|ʾalif}}
+|''{{transl|ar|ʾ}}'' / ''{{transl|ar|ā}}''
+|多種，包括 {{IPA|/aː/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0628</small><br /><font size="5">{{rtl-lang|ar|ب}}<font>
+|style="line-height:180%;padding:10px;"|<small>FE8F</small><br /><font size="5">{{rtl-lang|ar|ﺏ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FE90</small><br /><font size="5">{{rtl-lang|ar|ﺐ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FE92</small><br /><font size="5">{{rtl-lang|ar|ﺒ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FE91</small><br /><font size="5">{{rtl-lang|ar|ﺑ}}<font>
+|{{transl|ar|bāʾ}}
+|''{{transl|ar|b}}''
+|{{IPA|/b/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>062A</small><br /><font size="5">{{rtl-lang|ar|ت}}<font>
+|style="line-height:180%;padding:10px;"|<small>FE95</small><br /><font size="5">{{rtl-lang|ar|ﺕ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FE96</small><br /><font size="5">{{rtl-lang|ar|ﺖ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FE98</small><br /><font size="5">{{rtl-lang|ar|ﺘ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FE97</small><br /><font size="5">{{rtl-lang|ar|ﺗ}}<font>
+|{{transl|ar|tāʾ}}
+|''{{transl|ar|t}}''
+|{{IPA|/t/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>062B</small><br /><font size="5">{{rtl-lang|ar|ث}}<font>
+|style="line-height:180%;padding:10px;"|<small>FE99</small><br /><font size="5">{{rtl-lang|ar|ﺙ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FE9A</small><br /><font size="5">{{rtl-lang|ar|ﺚ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FE9C</small><br /><font size="5">{{rtl-lang|ar|ﺜ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FE9B</small><br /><font size="5">{{rtl-lang|ar|ﺛ}}<font>
+|{{transl|ar|ṯāʾ}}
+|''{{transl|ar|ṯ}}''
+|{{IPA|/θ/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>062C</small><br /><font size="5">{{rtl-lang|ar|ج}}<font>
+|style="line-height:180%;padding:10px;"|<small>FE9D</small><br /><font size="5">{{rtl-lang|ar|ﺝ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FE9E</small><br /><font size="5">{{rtl-lang|ar|ﺞ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEA0</small><br /><font size="5">{{rtl-lang|ar|ﺠ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FE9F</small><br /><font size="5">{{rtl-lang|ar|ﺟ}}<font>
+|{{transl|ar|ǧīm}}
+|''{{transl|ar|ǧ}}'' （亦係 ''j'', ''g''）
+|{{IPA|[ʤ]}} / {{IPA|[ʒ]}} / {{IPA|[ɡ]}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>062D</small><br /><font size="5">{{rtl-lang|ar|ح}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEA1</small><br /><font size="5">{{rtl-lang|ar|ﺡ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEA2</small><br /><font size="5">{{rtl-lang|ar|ﺢ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEA4</small><br /><font size="5">{{rtl-lang|ar|ﺤ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEA3</small><br /><font size="5">{{rtl-lang|ar|ﺣ}}<font>
+|{{transl|ar|ḥāʾ}}
+|''{{transl|ar|ḥ}}''
+|{{IPA|/ħ/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>062E</small><br /><font size="5">{{rtl-lang|ar|خ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEA5</small><br /><font size="5">{{rtl-lang|ar|ﺥ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEA6</small><br /><font size="5">{{rtl-lang|ar|ﺦ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEA8</small><br /><font size="5">{{rtl-lang|ar|ﺨ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEA7</small><br /><font size="5">{{rtl-lang|ar|ﺧ}}<font>
+|{{transl|ar|ḫāʾ}}
+|''{{transl|ar|ḫ}}'' （亦係 ''kh'', ''x''）
+|{{IPA|/x/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>062F</small><br /><font size="5">{{rtl-lang|ar|د}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEA9</small><br /><font size="5">{{rtl-lang|ar|ﺩ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEAA</small><br /><font size="5">{{rtl-lang|ar|ﺪ}}<font>
+|style="line-height:180%;padding:10px;" colspan="2"|—
+|{{transl|ar|dāl}}
+|''{{transl|ar|d}}''
+|{{IPA|/d/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0630</small><br /><font size="5">{{rtl-lang|ar|ذ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEAB</small><br /><font size="5">{{rtl-lang|ar|ﺫ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEAC</small><br /><font size="5">{{rtl-lang|ar|ﺬ}}<font>
+|style="line-height:180%;padding:10px;" colspan="2"|—
+|{{transl|ar|ḏāl}}
+|''{{transl|ar|ḏ}}'' （亦係 ''dh'', ''ð''）
+|{{IPA|/ð/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0631</small><br /><font size="5">{{rtl-lang|ar|ر}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEAD</small><br /><font size="5">{{rtl-lang|ar|ﺭ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEAE</small><br /><font size="5">{{rtl-lang|ar|ﺮ}}<font>
+|style="line-height:180%;padding:10px;" colspan="2"|—
+|{{transl|ar|rāʾ}}
+|''{{transl|ar|r}}''
+|{{IPA|/r/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0632</small><br /><font size="5">{{rtl-lang|ar|ز}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEAF</small><br /><font size="5">{{rtl-lang|ar|ﺯ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEB0</small><br /><font size="5">{{rtl-lang|ar|ﺰ}}<font>
+|style="line-height:180%;padding:10px;" colspan="2"|—
+|{{transl|ar|zāī}}
+|''{{transl|ar|z}}''
+|{{IPA|/z/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0633</small><br /><font size="5">{{rtl-lang|ar|س}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEB1</small><br /><font size="5">{{rtl-lang|ar|ﺱ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEB2</small><br /><font size="5">{{rtl-lang|ar|ﺲ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEB4</small><br /><font size="5">{{rtl-lang|ar|ﺴ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEB3</small><br /><font size="5">{{rtl-lang|ar|ﺳ}}<font>
+|{{transl|ar|sīn}}
+|''{{transl|ar|s}}''
+|{{IPA|/s/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0634</small><br /><font size="5">{{rtl-lang|ar|ش}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEB5</small><br /><font size="5">{{rtl-lang|ar|ﺵ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEB6</small><br /><font size="5">{{rtl-lang|ar|ﺶ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEB8</small><br /><font size="5">{{rtl-lang|ar|ﺸ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEB7</small><br /><font size="5">{{rtl-lang|ar|ﺷ}}<font>
+|{{transl|ar|šīn}}
+|''{{transl|ar|š}}'' （亦係 ''sh''）
+|{{IPA|/ʃ/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0635</small><br /><font size="5">{{rtl-lang|ar|ص}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEB9</small><br /><font size="5">{{rtl-lang|ar|ﺹ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEBA</small><br /><font size="5">{{rtl-lang|ar|ﺺ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEBC</small><br /><font size="5">{{rtl-lang|ar|ﺼ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEBB</small><br /><font size="5">{{rtl-lang|ar|ﺻ}}<font>
+|{{transl|ar|ṣād}}
+|''{{transl|ar|ṣ}}''
+|{{IPA|/sˁ/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0636</small><br /><font size="5">{{rtl-lang|ar|ض}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEBD</small><br /><font size="5">{{rtl-lang|ar|ﺽ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEBE</small><br /><font size="5">{{rtl-lang|ar|ﺾ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEC0</small><br /><font size="5">{{rtl-lang|ar|ﻀ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEBF</small><br /><font size="5">{{rtl-lang|ar|ﺿ}}<font>
+|{{transl|ar|ḍād}}
+|''{{transl|ar|ḍ}}''
+|{{IPA|/dˁ/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0637</small><br /><font size="5">{{rtl-lang|ar|ط}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEC1</small><br /><font size="5">{{rtl-lang|ar|ﻁ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEC2</small><br /><font size="5">{{rtl-lang|ar|ﻂ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEC4</small><br /><font size="5">{{rtl-lang|ar|ﻄ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEC3</small><br /><font size="5">{{rtl-lang|ar|ﻃ}}<font>
+|{{transl|ar|ṭāʾ}}
+|''{{transl|ar|ṭ}}''
+|{{IPA|/tˁ/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0638</small><br /><font size="5">{{rtl-lang|ar|ظ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEC5</small><br /><font size="5">{{rtl-lang|ar|ﻅ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEC6</small><br /><font size="5">{{rtl-lang|ar|ﻆ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEC8</small><br /><font size="5">{{rtl-lang|ar|ﻈ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEC7</small><br /><font size="5">{{rtl-lang|ar|ﻇ}}<font>
+|{{transl|ar|ẓāʾ}}
+|''{{transl|ar|ẓ}}''
+|{{IPA|/ðˁ/}} / {{IPA|/zˁ/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0639</small><br /><font size="5">{{rtl-lang|ar|ع}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEC9</small><br /><font size="5">{{rtl-lang|ar|ﻉ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FECA</small><br /><font size="5">{{rtl-lang|ar|ﻊ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FECC</small><br /><font size="5">{{rtl-lang|ar|ﻌ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FECB</small><br /><font size="5">{{rtl-lang|ar|ﻋ}}<font>
+|{{transl|ar|ʿayn}}
+|''{{transl|ar|ʿ}}''
+|{{IPA|/ʕ/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>063A</small><br /><font size="5">{{rtl-lang|ar|غ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FECD</small><br /><font size="5">{{rtl-lang|ar|ﻍ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FECE</small><br /><font size="5">{{rtl-lang|ar|ﻎ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FED0</small><br /><font size="5">{{rtl-lang|ar|ﻐ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FECF</small><br /><font size="5">{{rtl-lang|ar|ﻏ}}<font>
+|{{transl|ar|ġayn}}
+|''{{transl|ar|ġ}}'' （亦係 ''gh''）
+| {{IPA|/ɣ/}} （{{IPA|/g/}} ，借字用）
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0641</small><br /><font size="5">{{rtl-lang|ar|ف}}<font>
+|style="line-height:180%;padding:10px;"|<small>FED1</small><br /><font size="5">{{rtl-lang|ar|ﻑ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FED2</small><br /><font size="5">{{rtl-lang|ar|ﻒ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FED4</small><br /><font size="5">{{rtl-lang|ar|ﻔ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FED3</small><br /><font size="5">{{rtl-lang|ar|ﻓ}}<font>
+|{{transl|ar|fāʾ}}
+|''{{transl|ar|f}}''
+|{{IPA|/f/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0642</small><br /><font size="5">{{rtl-lang|ar|ق}}<font>
+|style="line-height:180%;padding:10px;"|<small>FED5</small><br /><font size="5">{{rtl-lang|ar|ﻕ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FED6</small><br /><font size="5">{{rtl-lang|ar|ﻖ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FED8</small><br /><font size="5">{{rtl-lang|ar|ﻘ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FED7</small><br /><font size="5">{{rtl-lang|ar|ﻗ}}<font>
+|{{transl|ar|qāf}}
+|''{{transl|ar|q}}''
+|{{IPA|/q/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0643</small><br /><font size="5">{{rtl-lang|ar|ك}}<font>
+|style="line-height:180%;padding:10px;"|<small>FED9</small><br /><font size="5">{{rtl-lang|ar|ﻙ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEDA</small><br /><font size="5">{{rtl-lang|ar|ﻚ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEDC</small><br /><font size="5">{{rtl-lang|ar|ﻜ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEDB</small><br /><font size="5">{{rtl-lang|ar|ﻛ}}<font>
+|{{transl|ar|kāf}}
+|''{{transl|ar|k}}''
+|{{IPA|/k/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0644</small><br /><font size="5">{{rtl-lang|ar|ل}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEDD</small><br /><font size="5">{{rtl-lang|ar|ﻝ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEDE</small><br /><font size="5">{{rtl-lang|ar|ﻞ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEE0</small><br /><font size="5">{{rtl-lang|ar|ﻠ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEDF</small><br /><font size="5">{{rtl-lang|ar|ﻟ}}<font>
+|{{transl|ar|lām}}
+|''{{transl|ar|l}}''
+|{{IPA|/l/}}, （{{IPA|[lˁ]}}，得''Allah''用）
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0645</small><br /><font size="5">{{rtl-lang|ar|م}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEE1</small><br /><font size="5">{{rtl-lang|ar|ﻡ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEE2</small><br /><font size="5">{{rtl-lang|ar|ﻢ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEE4</small><br /><font size="5">{{rtl-lang|ar|ﻤ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEE3</small><br /><font size="5">{{rtl-lang|ar|ﻣ}}<font>
+|{{transl|ar|mīm}}
+|''{{transl|ar|m}}''
+|{{IPA|/m/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0646</small><br /><font size="5">{{rtl-lang|ar|ن}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEE5</small><br /><font size="5">{{rtl-lang|ar|ﻥ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEE6</small><br /><font size="5">{{rtl-lang|ar|ﻦ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEE8</small><br /><font size="5">{{rtl-lang|ar|ﻨ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEE7</small><br /><font size="5">{{rtl-lang|ar|ﻧ}}<font>
+|{{transl|ar|nūn}}
+|''{{transl|ar|n}}''
+|{{IPA|/n/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0647</small><br /><font size="5">{{rtl-lang|ar|ه}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEE9</small><br /><font size="5">{{rtl-lang|ar|ﻩ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEEA</small><br /><font size="5">{{rtl-lang|ar|ﻪ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEEC</small><br /><font size="5">{{rtl-lang|ar|ﻬ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEEB</small><br /><font size="5">{{rtl-lang|ar|ﻫ}}<font>
+|{{transl|ar|hāʾ}}
+|''{{transl|ar|h}}''
+|{{IPA|/h/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>0648</small><br /><font size="5">{{rtl-lang|ar|و}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEED</small><br /><font size="5">{{rtl-lang|ar|ﻭ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEEE</small><br /><font size="5">{{rtl-lang|ar|ﻮ}}<font>
+|style="line-height:180%;padding:10px;" colspan="2"|—
+|{{transl|ar|wāw}}
+|''{{transl|ar|w}}'' / ''{{transl|ar|ū}}''
+|{{IPA|/w/}} / {{IPA|/uː/}}
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>064A</small><br /><font size="5">{{rtl-lang|ar|ي}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEF1</small><br /><font size="5">{{rtl-lang|ar|ﻱ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEF2</small><br /><font size="5">{{rtl-lang|ar|ﻲ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEF4</small><br /><font size="5">{{rtl-lang|ar|ﻴ}}<font>
+|style="line-height:180%;padding:10px;"|<small>FEF3</small><br /><font size="5">{{rtl-lang|ar|ﻳ}}<font>
+|{{transl|ar|yāʾ}}
+|''{{transl|ar|y}}'' / ''{{transl|ar|ī}}''
+|{{IPA|/j/}} / {{IPA|/iː/}}
+|}
 
 ==參考資料==
 {{reflist}}
