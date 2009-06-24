@@ -85,6 +85,42 @@
 | 
 |}
 
+【元音】
+
+:{| class="wikitable"
+! rowspan="2" | &nbsp;
+! colspan="2" | 前元音
+! colspan="2" | 央元音
+! colspan="2" | 後元音
+|-
+! style="font-size: 80%;text-align:center;" |長
+! style="font-size: 80%;text-align:center;" |短
+! style="font-size: 80%;text-align:center;" |長
+! style="font-size: 80%;text-align:center;" |短
+! style="font-size: 80%;text-align:center;" |長
+! style="font-size: 80%;text-align:center;" |短
+|-
+! 閉元音
+| I {{IPA|/iː/}}
+| I  {{IPA|/i/}}
+| colspan="2" | &nbsp;
+| V {{IPA|/uː/}}
+| V {{IPA|/u/}}
+|-
+! 中元音
+| E {{IPA|/eː/}}
+| E {{IPA|/e/}}
+| colspan="2"|&nbsp;
+| O {{IPA|/oː/}}
+| O {{IPA|/o/}}
+|-
+! 開元音
+| colspan="2" | &nbsp;
+| A {{IPA|/aː/}}
+| A {{IPA|/a/}}
+| colspan="2" | &nbsp;
+|}
+
 [[Category:語言]]
 
 {{Link FA|fi}}
