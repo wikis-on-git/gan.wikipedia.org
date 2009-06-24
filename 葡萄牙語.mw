@@ -99,5 +99,86 @@
 |}
 
 ==音系==
+【輔音】
+
+{| class="wikitable"
+|-
+!
+! colspan="2" | [[Bilabial]]
+! colspan="2" | [[Labiodental|Labio]]-</br>[[labiodental|dental]]
+! colspan="2" | [[Dental consonant|Dental]]
+! colspan="2" | [[Alveolar consonant|Alveolar]]
+! colspan="2" | [[Postalveolar|Post]]-</br>[[Postalveolar|alveolar]]
+! colspan="2" | [[Palatal]]
+! colspan="2" | [[Velar consonant|Velar]]
+! colspan="2" | [[Uvular]]
+|- align=center
+|[[Plosive]]s
+| {{IPA|p}}
+| {{IPA|b}}
+| colspan="2" |
+| {{IPA|t̪}}
+| {{IPA|d̪}}
+| colspan="2" | 
+| colspan="2" | 
+| colspan="2" |
+| {{IPA|k}}
+| {{IPA|g}}
+| colspan="2" |
+|
+|- align=center
+|[[Nasal consonant|Nasals]]
+| colspan="2" | {{IPA|m}}
+| colspan="2" |
+| colspan="2" |
+| colspan="2" | {{IPA|n}}
+| colspan="2" | 
+| colspan="2" | {{IPA|ɲ}}
+| colspan="2" | {{IPA|ŋ}}
+| colspan="2" |
+|- align=center
+|[[Fricative]]s
+| colspan="2" |
+| {{IPA|f}}
+| {{IPA|v}}
+| colspan="2" |
+| {{IPA|s}}
+| {{IPA|z}}
+| {{IPA|ʃ}}
+| {{IPA|ʒ}}
+| colspan="2" |
+| colspan="2" |
+| {{IPA|ʁ}}
+|- align=center
+|[[Lateral consonant|Laterals]]             
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+| colspan="2" | {{IPA|l}}
+| colspan="2" |
+| colspan="2" | {{IPA|ʎ}}
+| colspan="2" |
+| colspan="2" |
+|- align=center
+|[[Flap consonant|Flaps]]
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+| colspan="2" | {{IPA|ɾ}}
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+|- align=center
+|[[Approximant consonant|Approximant]]
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+| colspan="2" | {{IPA|ɹ}}
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+|}
 
 [[Category:語言]]
