@@ -3,14 +3,67 @@
 '''日本語'''，簡稱日語，係[[日本]]嗰官方話。到底拿佢劃到哪隻語言系還有爭議，有人覺得可以劃到阿爾泰語系，也有人覺佢係孤立語言（或者係韓日-琉球語族）或者係日本語系。写日语会用到非常多嗰[[漢字]]。日語總共有兩种表音符號：平假名（平仮名）跟片假名（片仮名），羅馬字（ローマ字）係用来寫成[[拉丁字母]]。比較像日語嗰有琉球語。
 
 {{日語五十音}}
-==歷史==
 
-艾櫻
-
-==辭彙==
-
-==語法==
-
+==音系==
+===輔音===
+{| border="2" cellpadding="5" style="margin: 1em 1em 1em 0; line-height: 1.2em; border-collapse: collapse; text-align: center; background: #f9f9f9; border: 1px #aaa solid;"
+|-
+|
+! 雙唇音
+! 齒齦音
+! 齒齦後音
+! 硬顎音
+! 軟齶音
+! 喉音
+|-
+! style="text-align: left;" | 塞音
+| {{IPA|p}} &nbsp;&nbsp; {{IPA|b}}
+| {{IPA|t}} &nbsp;&nbsp; {{IPA|d}}
+|
+|
+| {{IPA|k}} &nbsp;&nbsp; {{IPA|g}}
+|
+|-
+! style="text-align: left;" | 塞擦音
+|
+| {{IPA|ʦ}} &nbsp;&nbsp; {{IPA|ʣ}}
+| {{IPA|ʨ}} &nbsp;&nbsp; {{IPA|ʥ}}
+|
+|
+|
+|-
+! style="text-align: left;" | 擦音
+| {{IPA|ɸ}}
+| {{IPA|s}} &nbsp;&nbsp; {{IPA|z}}
+| {{IPA|ɕ}} &nbsp;&nbsp; ({{IPA|ʑ}})
+| ({{IPA|ç}})
+|
+| {{IPA|h}}
+|-
+! style="text-align: left;" | 鼻音
+| {{IPA|m}}
+| {{IPA|n}}
+|
+|
+| ({{IPA|ŋ}})
+|
+|-
+! style="text-align: left;" | 閃音
+|
+|
+| {{IPA|ɺ̠}}
+|
+|
+|
+|-
+! style="text-align: left;" | 近音
+|
+|
+|
+| {{IPA|j}}
+| {{IPA|ɰ}}
+|
+|}
 
 ==外部連結==
 *[http://ja.wiktionary.org 日本版維基多語詞典]
