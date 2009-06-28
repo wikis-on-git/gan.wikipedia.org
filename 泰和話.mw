@@ -7,9 +7,94 @@
 ==音韻==
 
 ===輔音===
-{{IPA|p pʰ m f t tʰ l}}
 
-{{IPA|ʦ ʦʰ s ʨ ʨʰ ɕ ɳ k kʰ ŋ h}}
+{| class="wikitable" border="1" cellpadding="5" cellspacing="0" align="center" style="background:AliceBlue; color:black"
+|+ <span style="font-size:larger;">'''泰和贛語嗰聲母表'''</span>
+|-
+! style="background:LightCyan; color:black" colspan=2 |
+! style="background:LightCyan; color:black" width="10%" |'''雙唇'''
+! style="background:LightCyan; color:black" width="10%" |'''唇齒'''
+! style="background:LightCyan; color:black" width="10%" |'''舌尖前'''
+! style="background:LightCyan; color:black" width="10%" |'''舌尖中'''
+! style="background:LightCyan; color:black" width="10%" |'''舌面前'''
+! style="background:LightCyan; color:black" width="10%" |'''舌面中'''
+! style="background:LightCyan; color:black" width="10%" |'''舌面後'''
+! style="background:LightCyan; color:black" width="10%" |'''喉'''
+|-
+|
+|-
+! style="background:LightCyan; color:black" rowspan=2 | '''塞音'''
+! style="background:LightCyan; color:black" | 不送氣
+| align="center" | '''{{IPA|p}}<br />巴'''
+|
+|
+| align="center" | '''{{IPA|t}}<br />打'''
+|
+|
+| align="center" | '''{{IPA|k}}<br />家'''
+| align="center" | '''{{IPA|Ø}}<br />野'''
+|-
+! style="background:LightCyan; color:black" | 送氣
+| align="center" | '''{{IPA|pʰ}}<br />白'''
+|
+|
+| align="center" | '''{{IPA|tʰ}}<br />達'''
+|
+|
+| align="center" | '''{{IPA|kʰ}}<br />客'''
+|
+|-
+! style="background:LightCyan; color:black" colspan=2 | '''鼻音'''
+| align="center" | '''{{IPA|m}}<br />望'''
+|
+|
+|
+|
+| align="center" | '''{{IPA|ȵ}}<br />讓'''
+| align="center" | '''{{IPA|ŋ}}<br />昂'''
+|
+|-
+! style="background:LightCyan; color:black" colspan=2 | '''摩擦音'''
+|
+| align="center" | '''{{IPA|f}}<br />花'''
+| align="center" | '''{{IPA|s}}<br />紗'''
+|
+| align="center" | '''{{IPA|ɕ}}<br />寫'''
+|
+|
+| align="center" | '''{{IPA|h}}<br />蝦'''
+|-
+! style="background:LightCyan; color:black" rowspan=2 | '''塞擦音'''
+! style="background:LightCyan; color:black" | 不送氣
+|
+|
+| align="center" | '''{{IPA|ʦ}}<br />渣'''
+|
+| align="center" | '''{{IPA|ʨ}}<br />脊'''
+|
+|
+|
+|-
+! style="background:LightCyan; color:black" | 送氣
+|
+|
+| align="center" | 
+|
+| align="center" | '''{{IPA|ʨʰ}}<br />喫'''
+|
+|
+|
+|-
+! style="background:LightCyan; color:black" colspan=2 | '''邊音'''
+|
+|
+|
+| align="center" | '''{{IPA|l}}<br />羅'''
+|
+|
+|
+|
+|}
 
 ===韻母===
 
