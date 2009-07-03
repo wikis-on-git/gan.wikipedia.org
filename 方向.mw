@@ -1,12 +1,12 @@
 '''方位'''係各方向嗰位置。四方位或基本方位就係[[東]]、[[南]]、[[西]]、[[北]]，相對方位係前、後、左、右、上、下。
 
-==東西方嗰定義==
+== 東西方嗰定義 ==
 到地球嗰球面上，順到[[地球]]自轉嗰方向就係東方，鬥到[[地球]]自轉嗰係西方。
 
-==南北方嘅定義==
+== 南北方嘅定義 ==
 到通過某隻地方嗰[[子午線]]上頭，望[[北極]]嗰方向係箇隻地方嗰北方，望[[南極]]嗰方向就係各隻地點嗰南方。
 
-===三十二方位嗰方位角===
+=== 三十二方位嗰方位角 ===
 *000.00°	北
 *011.25°	北微東
 *022.50°	東北偏北(北北東)
@@ -40,11 +40,11 @@
 *337.50°	西北偏北(北北西)
 *348.75°	北微西
 
-==中國古時間嗰方向==
-[[Image:China 24 cardinal directions.png|thumb|right|250px|中國古時間嗰方向]]
+== 中國古時間嗰方向 ==
+[[File:China 24 cardinal directions.png|thumb|right|250px|中國古時間嗰方向]]
 [[中國]]古時間用過[[地支]]、[[八卦]]、[[天干]]去表示方位。
 
-===地支方位===
+=== 地支方位 ===
 地支方位拿'''子'''做北方，'''午'''做南方，大致對應[[地球]]同[[太陽]]嗰相對方位。南北向嗰經線都係子午線，午門即係南門。
 
 {| border=1 cellspacing=0 cellpadding=1 style="border: solid 1px #000000;"
@@ -80,7 +80,7 @@
 |北
 |}
 
-===八卦方位===
+=== 八卦方位 ===
 {| border=1 cellspacing=0 cellpadding=1 style="border: solid 1px #000000;"
 |-
 | align=center|坎
@@ -104,8 +104,8 @@
 | align=center|北
 |}
 
-===地支、八卦、天干綜合24方位===
-[[Image:Ming-marine-compass.jpg|thumb|center|250px|明代航海羅盤嗰24方位圖]]
+=== 地支、八卦、天干綜合24方位 ===
+[[File:Ming-marine-compass.jpg|thumb|center|250px|明代航海羅盤嗰24方位圖]]
 {| border=1 cellspacing=0 cellpadding=1 style="border: solid 1px #000000;"
 |-
 |子
@@ -167,11 +167,11 @@
 
 [[明代]]航海家仲用二相鄰方位表示二相鄰方位嗰中間數，例如：甲寅係等於 67.5°，而甲卯就等於 82.5°。
 
-===六合方位===
+=== 六合方位 ===
 
 [[中國]]古代仲有所謂[[六合]]嗰講法嚟表示空間方位。一種講法係：前、後、左、右、上、下，而另一种講法就係：東、南、西、北、上、下。
 
-==鐘面方位==
+== 鐘面方位 ==
 當傳統鐘面顯示12小時制嗰時候，表示方位都有用幾點鐘方向嗰話法。
 
 {| border=1 cellspacing=0 cellpadding=1 style="border: solid 1px #000000;"
@@ -206,7 +206,6 @@
 |
 |北
 |}
-
 
 [[Category:方向|*]]
 
@@ -255,6 +254,7 @@
 [[sh:Strane sveta]]
 [[simple:Cardinal direction]]
 [[sk:Svetová strana]]
+[[sq:Drejtimet kardinale]]
 [[sr:Стране света]]
 [[sv:Väderstreck]]
 [[tpi:Kadinol daireksion]]
