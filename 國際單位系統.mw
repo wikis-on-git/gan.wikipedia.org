@@ -112,61 +112,61 @@
 | 一
 | 1
 |- 
-| 10<sup>&minus;1</sup>
+| 10<sup>−1</sup>
 | deci
 | d
 | 十分之一 / 一分
 | 0.1
 |- 
-| 10<sup>&minus;2</sup>
+| 10<sup>−2</sup>
 | centi
 | c
 | 百分之一 / 一厘
 | 0.01
 |- 
-| 10<sup>&minus;3</sup>
+| 10<sup>−3</sup>
 | milli
 | m
 | 千分之一 / 一毛
 | 0.001
 |- 
-| 10<sup>&minus;6</sup>
+| 10<sup>−6</sup>
 | micro
 | µ
 | 百万分之一 / 一微
 | 0.000 001
 |-
-| 10<sup>&minus;9</sup>
+| 10<sup>−9</sup>
 | nano
 | n
 | 十億分之一 / 一塵
 | 0.000 000 001
 |-
-| 10<sup>&minus;12</sup>
+| 10<sup>−12</sup>
 | pico
 | p
 | 一兆分之一 / 一漠
 | 0.000 000 000 001
 |-
-| 10<sup>&minus;15</sup>
+| 10<sup>−15</sup>
 | femto
 | f
 | 千兆分之一 / 一須臾
 | 0.000 000 000 000 001
 |-
-| 10<sup>&minus;18</sup>
+| 10<sup>−18</sup>
 | atto
 | a
 | 百京分之一 / 一刹那
 | 0.000 000 000 000 000 001
 |-
-| 10<sup>&minus;21</sup>
+| 10<sup>−21</sup>
 | zepto
 | z
 | 十垓分之一 / 一清淨
 | 0.000 000 000 000 000 000 001
 |-
-| 10<sup>&minus;24</sup>
+| 10<sup>−24</sup>
 | yocto
 | y
 | 一秭分之一 / 一涅槃寂静
@@ -182,6 +182,7 @@
 
 [[af:SI-stelsel]]
 [[als:SI-Einheitensystem]]
+[[an:Sistema Internazional d'Unidaz]]
 [[ar:نظام الوحدات الدولي]]
 [[ast:Sistema Internacional d'Unidaes]]
 [[bat-smg:SI]]
