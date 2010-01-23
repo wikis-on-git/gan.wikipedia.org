@@ -5,9 +5,8 @@
 {| border="0" style="width: 280px; background: none; "
 |-
 | id="EnWpMpBook2" style="white-space: nowrap; background-repeat: no-repeat; background-position: 0% 20%; text-align: center;" |
-<div style="font-size:95%;">'''海納百川 有容乃大'''</div>
-<div style="margin-top: .2em; font-size: 152%;">歡迎來'''[[贛語維基百科|贛語版]]'''嗰[[維基百科]]！</div>
-<div style="margin-top: .5em; font-size: 95%;">[[Wikipedia:關於|人人都寫得正]]嗰百科全書</div>
+<div style="margin-top: .2em;"><font face="Microsoft YaHei" style="color:blue;font-size:26px;text-shadow: 0.1em 0.1em 0.1em grey">歡迎來[[贛語維基百科|<span style="color:blue;">贛語版</span>]]嗰[[維基百科|<span style="color:blue;">維基百科</span>]]！</font></div>
+<div style="margin-top: .5em; font-size: 105%;">[[Wikipedia:關於|人人都寫得正]]嗰百科全書</div>
 <div id="articlecount" style="width: 100%; text-align: center; font-size: 85%;">而今攏共有[[Special:Statistics|<span style="color: green; font-size: 120%;">'''{{NUMBEROFARTICLES}}'''</span>]]篇文章</div>
 |}
 |style="width:11%;font-size:95%;color:#000"|
