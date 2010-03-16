@@ -1,3 +1,57 @@
+{{noteTA
+|1=月台
+|2=恒生}}
+{{otheruses|南昌站 (江西省)|subject=[[香港鐵路]]{{東涌綫}}和{{西鐵綫}}中的一個車站|other=位於[[江西省]][[南昌市]]的同名車站}}
+{{香港鐵路車站
+|name=南昌
+|engname=Nam Cheong
+|livery=#FFFF80
+|namecolour=#000000
+|linecolour={{西鐵綫色彩}}
+|linecolour2={{東涌綫色彩}}
+|image=Nam Cheong Station 2008.jpg
+|caption=南昌站東涌綫4號月台
+|code=NAC
+|location=[[香港]][[九龍]][[深水埗區]][[西九龍填海區]]<br />[[西九龍公路]]橋底近[[富昌邨]]
+|coordinates={{Coord|22|19|35.39|N|114|9|11.12|E|type:railwaystation}}
+|map = [http://www.mtr.com.hk/jplanner/images/maps/nac.pdf 港鐵網站]
+|colour=<span style="color:#FFFF80;background:#000000;">黃色</span>及<span style="color: #A0B0C0;">灰藍色</span>
+|line=[[港鐵]]{{西鐵綫}}及{{東涌綫}}
+|stationhours=[http://www.mtr.com.hk/jplanner/images/timetables/nac.pdf 0550-0113]
+|hours=[http://www.mtr.com.hk/jplanner/images/timetables/nac.pdf 0600-0103]
+|connection=[[香港巴士|巴士]]、[[香港小巴|小巴]]、[[香港的士|的士]]
+|openday=[[2003年]][[12月20日]]
+|stationtype=地面車站
+|platformtype=[[島式月台]]及[[側式月台]]
+|platform=4
+|exit=5
+|lift=6
+|escalator=48
+|shop=36}}
+{|{{railway line header2}}
+{{BS-header|路軌月台配置(P)||#FFFF80|black}}
+{{BS-table|track}}
+|-style="font-size:80%"
+|colspan=6 align=center|往[[荔景站]]／[[青衣站]]{{pad|10px}}往[[美孚站]]
+{{BS6-2|uSTRg|uSTRg|uSTRf|uSTRf|uSTRg|uSTRf}}
+{{BS6-2|uSTR|ÜWor|uSTR|uSTR|uSTR|uSTR|O1=ÜWcru|O2=uSTR}}
+{{BS6-2|ÜWo+l|uSTR|uSTR|uSTR|uSTR|uSTR|O1=uSTR|O2=ÜWclo}}
+{{BS6-2|uSTR+BSr|uSTR|uSTR|uSTR+BSl|uSTR+BSr|uSTR+BSl|O1=num3r|O5=num1r}}
+{{BS6-2|uSTR+BSr|uSTR|uSTR|uSTR+BSl|uSTR+BSr|uSTR+BSl|O4=num4l|O6=num2l}}
+{{BS6-2|ÜWol|uSTR|uSTR|ÜWor|ÜWol|ÜWor|O1=uSTR|O2=ÜWclu|O3=ÜWcru|O4=uSTR|O5=uSTR|O6=uSTR}}
+{{BS6-2|uSTR|ÜWo+r|ÜWo+l|uSTR|ÜWo+l|ÜWo+r|O1=ÜWcro|O2=uSTR|O3=uSTR|O4=ÜWclo|O5=uSTR|O6=uSTR}}
+{{BS6-2|uSTRg|uSTRg|uSTRf|uSTRf|uSTRg|uSTRf}}
+|-style="font-size:80%"
+|colspan=6 align=center|往[[奧運站]]／[[九龍站]]{{pad|10px}}往[[柯士甸站]]
+|}
+|}
+[[File:MTR NAC (12).JPG|thumb|250px|right|南昌站大堂]]
+[[File:MTR NAC (19).JPG|thumb|250px|right|南昌站月台的轉綫通道]]
+[[File:MTR NAC (14).JPG|thumb|250px|right|南昌站2號月台]]
+[[File:MTR NAC (20).JPG|thumb|250px|right|南昌站3號月台]]
+[[File:MTR NAC (7).JPG|thumb|250px|right|南昌站A出口]]
+[[File:MTR NAC (18).JPG|thumb|250px|right|南昌站C出口，右方為24小時開放行人隧道]]
+
 {{非贛語}}
 '''南昌站'''（英文：Nam Cheong Station）係[[香港地鐵|港鐵]][[西鐵綫]]同到[[東涌綫]]嗰一隻轉車站，係指位到[[香港]]深水埗區西九龍填海區西九龍公路橋底近富昌邨。本站在早期規劃時，早已係曾被叫為「欽州街站（[[英文]]：Yen Chow Street Station）」。
 
