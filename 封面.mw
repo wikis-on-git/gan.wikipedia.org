@@ -37,7 +37,7 @@
 <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
 [[Image:Bluebg.png|link=]]
 <div style="position:absolute; left:5px; top:-5px;">[[File:HSUtvald.svg|38px|link=]]</div>
-<div style="position:absolute; left:40px; top:0px;"><h2 style="font-weight:bold; border-bottom:none; font-size:120%; padding:.15em .4em;">全靚文章</h2></div></div>
+<div style="position:absolute; left:40px; top:0px;"><h2 style="font-weight:bold; border-bottom:none; font-size:120%; padding:.15em .4em;">[[Template:全靚文章|全靚文章]]</h2></div></div>
 |-
 |
 {{全靚文章}}
@@ -47,7 +47,7 @@
 !<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
 [[Image:Bluebg.png|link=]]
 <div style="position:absolute; left:5px; top:-5px;">[[File:HSAktuell.svg|38px|link=]]</div>
-<div style="position:absolute; left:40px; top:0px;"><h2 style="font-weight:bold; border-bottom:none; font-size:120%; padding:.15em .4em;">新出嗰事</h2></div></div>
+<div style="position:absolute; left:40px; top:0px;"><h2 style="font-weight:bold; border-bottom:none; font-size:120%; padding:.15em .4em;">[[Template:新出嗰事|新出嗰事]]</h2></div></div>
 |-
 |
 {{新出嗰事}}
@@ -56,7 +56,7 @@
 ! <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
 [[Image:Bluebg.png|link=]]
 <div style="position:absolute; left:5px; top:-5px;">[[File:HSVissteduatt.svg|38px|link=]]</div>
-<div style="position:absolute; left:40px; top:0px;"><h2 style="font-weight:bold; border-bottom:none; font-size:120%; padding:.15em .4em;">倷曉得啵？</h2></div></div>
+<div style="position:absolute; left:40px; top:0px;"><h2 style="font-weight:bold; border-bottom:none; font-size:120%; padding:.15em .4em;">[[Template:倷曉得啵|倷曉得啵？]]</h2></div></div>
 |-
 |
 {{倷曉得啵}}
@@ -64,7 +64,7 @@
 ! <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
 [[Image:Bluebg.png|link=]]
 <div style="position:absolute; left:5px; top:-5px;">[[File:HSDagensdatum.svg|38px|link=]]</div>
-<div style="position:absolute; left:40px; top:0px;"><h2 style="font-weight:bold; border-bottom:none; font-size:120%; padding:.15em .4em;">許年今日</h2></div></div>
+<div style="position:absolute; left:40px; top:0px;"><h2 style="font-weight:bold; border-bottom:none; font-size:120%; padding:.15em .4em;">[[Template:許年今日|許年今日]]</h2></div></div>
 |-
 |
 {{許年今日}}
@@ -73,7 +73,7 @@
 ! <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
 [[Image:Bluebg.png|link=]]
 <div style="position:absolute; left:5px; top:-5px;">[[File:HSBild.svg|38px|link=]]</div>
-<div style="position:absolute; left:40px; top:0px;"><h2 style="font-weight:bold; border-bottom:none; font-size:120%; padding:.15em .4em;">箇日靚畫</h2></div></div>
+<div style="position:absolute; left:40px; top:0px;"><h2 style="font-weight:bold; border-bottom:none; font-size:120%; padding:.15em .4em;">[[Template:箇日靚畫|箇日靚畫]]</h2></div></div>
 |-
 |
 {{箇日靚畫}}
