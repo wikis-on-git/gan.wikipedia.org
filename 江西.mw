@@ -97,8 +97,8 @@
 江西向來全國係稻米嗰主要產區。哈盛產柑桔（以南豐蜜桔著稱）、茶葉、毛竹同到杉木。廣昌係全國通芯白蓮、曬煙出口嗰生產基地，省優質烤煙嗰生產基地。
 
 == 人口 ==
-
-人口
+{{main|江西嗰人口}}
+===人口===
 
 大概4千萬
 
@@ -124,7 +124,46 @@
 
 人口自然增長率 9.8‰。人口密度平均每平方公里 251 人。全省人口密度最大嗰係[[南昌市]]，平均每平方公里 566 人；人口密度最小嗰係[[吉安市]]，平均每平方公里 183 人。
 
-'''民族'''
+<timeline>
+TimeAxis	= orientation:horizontal format:yyyy
+ImageSize	= width:640 height:auto barincrement:25
+PlotArea 	= left:10 right:10 top:10 bottom:40
+AlignBars 	= justify
+
+Colors =
+  id:canvas        	value:rgb(0.97,0.97,0.97)
+
+BackgroundColors = canvas:canvas
+
+Period = from:0 till:300
+ScaleMajor = unit:year increment:50 start:0 gridcolor:drabgreen
+
+BarData=
+  barset:Einwohnerzahl
+
+PlotData=
+  width:20 fontsize:M textcolor:black color:skyblue shift:(20,-6) anchor:from
+
+  barset:Einwohnerzahl
+
+  from:start till:82.4  text:[[贛州]]_(8240465)
+  from:start till:63.9   text:[[上饒]]_(6396254)
+  from:start till:53.7   text:[[宜春]]_(5374205)
+  from:start till:47.3   text:[[吉安]]_(4727267)
+  from:start till:46.9   text:[[九江]]_(4691492)
+  from:start till:45.5    text:[[南昌]]_(4545414)
+  from:start till:38.5   text:[[撫州]]_(3837825)
+  from:start till:18.3    text:[[萍鄉]]_(1829248)
+  from:start till:15.4    text:[[景德鎮]]_(1544977)
+  from:start till:11.1    text:[[新喻]]_(1119131)
+  from:start till:10.9    text:[[鷹潭]]_(1085009)
+
+TextData=
+  fontsize:S pos:(450,20)
+  text:地方人口嗰總人數
+</timeline>
+
+===民族===
 
 江西人口以[[漢族]]占得最多，達到總人口嗰99％以上。省內哈有別嗰37隻少數民族，人口多奀子嗰有回族、畬族等。江西係中國境內少數民族比重最低嗰省份。
 
