@@ -135,7 +135,7 @@ Colors =
 
 BackgroundColors = canvas:canvas
 
-Period = from:0 till:300
+Period = from:0 till:100
 ScaleMajor = unit:year increment:50 start:0 gridcolor:drabgreen
 
 BarData=
