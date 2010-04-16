@@ -1,0 +1,9 @@
+'''行列'''係植數字組成嗰矩形陣列，好似：
+::<math>
+\begin{bmatrix}
+1 & 9 & 13 \\
+20 & 55 & 4
+\end{bmatrix}.
+</math>
+
+[[Category:數學]]
