@@ -1,0 +1,5 @@
+'''微分方程'''係話含得一次、二次、乃至高次微分未知數嗰[[方程]]。
+
+<math>f\left(x, \frac{d^n y}{dx^n},\frac{d^{(n-1)} y}{dx^{(n-1)}},\cdots, \frac{dy}{dx}, y\right)=0</math>
+
+[[Category:數學]]
