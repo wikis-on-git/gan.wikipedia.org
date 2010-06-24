@@ -1,7 +1,7 @@
 '''韻律'''（Meter）係西方詩歌裏頭嗰一隻[[韻文]]（verse）嗰基本用韻結構。佢嗰韻腳（feet）分得正好幾類。
 
-==韻腳嗰類別==
-===一歩格===
+== 韻腳嗰類別 ==
+=== 一歩格 ===
 一歩格（英語：Monometer）係話一行單就一隻韻腳。像：
 
 :Thus I
@@ -11,7 +11,7 @@
 :Unknown,
 :And gone.
 
-===两歩格===
+=== 两歩格 ===
 两歩格（英語：Dimeter）係話一行單就两隻韻腳。像：
 
 :Take her up // tenderly,
@@ -19,32 +19,32 @@
 :Fashioned so // slenderly,
 :Young and so // fair.
 
-===三歩格===
+=== 三歩格 ===
 三歩格（英語：Trimeter）係話一行單就三隻韻腳。像：
 
 : When here // the spring // we see,
 : Fresh green // upon // the tree.
 
-===四歩格===
+=== 四歩格 ===
 四歩格（英語：Tetrameter）係話一行單就四隻韻腳。佢嗰下頭又拕分做好幾隻細分類。像：
 
-*弱弱強四歩格（Anapestic tetrameter）：「And the '''sheen''' // of their '''spears''' // was like '''stars''' // on the '''sea'''」；
-*弱強四歩格（Iambic tetrameter）：「Be'''cause''' // I '''could''' // not '''stop''' // for '''Death'''」
-*強弱四歩格（Trochaic tetrameter）：「'''Pet'''er, // '''Pet'''er, // '''pump'''kin- // '''eat'''er」
-*強弱弱四歩格（Dactylic tetrameter）：「'''Pic'''ture your // '''self''' in a // '''boat''' on a // '''riv'''er with ...」
+* 弱弱強四歩格（Anapestic tetrameter）：「And the '''sheen''' // of their '''spears''' // was like '''stars''' // on the '''sea'''」；
+* 弱強四歩格（Iambic tetrameter）：「Be'''cause''' // I '''could''' // not '''stop''' // for '''Death'''」
+* 強弱四歩格（Trochaic tetrameter）：「'''Pet'''er, // '''Pet'''er, // '''pump'''kin- // '''eat'''er」
+* 強弱弱四歩格（Dactylic tetrameter）：「'''Pic'''ture your // '''self''' in a // '''boat''' on a // '''riv'''er with ...」
 
-===五歩格===
+=== 五歩格 ===
 五歩格（英語：Pentameter）係話一行單就五隻韻腳。弱強五歩格（iambic pentameter）係佢最常用嗰形式，像：「A '''horse'''! A '''horse'''! My '''king'''dom '''for''' a <big>'''horse'''</big>!」
 
 強弱五歩格（trochaic pentameter）也係五歩格嗰一类形式，像：「<big>'''Never'''</big>, '''never''', '''never''', '''never''', '''never'''!」
 
-===六歩格===
+=== 六歩格 ===
 六歩格（英語：Hexameter）係話一行單就六隻韻腳。像：
 
 : Nor // any // other // wold // like Cotswold // ever sped,
 : So rich // and // fair // a vale // in fortuning // to wed. 
 
-===七歩格===
+=== 七歩格 ===
 七歩格（英語：Heptameter）係話一行單就七隻韻腳。通常佢會有 14 - 21 隻音節。像：
 
 :'Tis but as ivy-leaves around the ruin'd turret wreathe,
@@ -55,16 +55,16 @@
 :As springs in deserts found seem sweet, all brackish though they be,
 :So midst the wither'd waste of life, those tears would flow to me!
 
-===八歩格===
+=== 八歩格 ===
 八歩格（英語：Octameter）係話一行單就八隻韻腳。佢拕分做两隻細分類。
 
-*強弱八歩格（Trochaic octameter）
+* 強弱八歩格（Trochaic octameter）
 :Once upon a midnight dreary, while I pondered, weak and weary 
 :Over many a quaint and curious volume of forgotten lore- 
 :While I nodded, nearly napping, suddenly there came a tapping 
 :As of some one gently rapping, rapping at my chamber door
 
-*強弱弱八歩格（Dactylic octameter）
+* 強弱弱八歩格（Dactylic octameter）
 :Ere frost-flower and snow-blossom faded and fell, and the splendour of winter had passed out of sight, 
 :The ways of the woodlands were fairer and stranger than dreams that fulfil us in sleep with delight; 
 :The breath of the mouths of the winds had hardened on tree-tops and branches that glittered and swayed 
@@ -95,6 +95,7 @@
 [[ko:운율]]
 [[la:Metrum (poesis)]]
 [[lv:Pantmērs]]
+[[ml:വൃത്തം (വ്യാകരണം)]]
 [[nl:Metrum]]
 [[no:Metrikk]]
 [[pl:Metrum (poetyka)]]
